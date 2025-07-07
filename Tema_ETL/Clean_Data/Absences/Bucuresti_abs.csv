@@ -1,0 +1,125 @@
+NAME,REASON,SDATE,SHOUR,EDATE,EHOUR,CITY
+Vlad Cojocaru,PROJECT,05/27/2025,19:00,05/27/2025,21:00,Bucuresti
+Alina Trincu,EXAM,05/28/2025,13:00,05/28/2025,18:00,Bucuresti
+Razvan Dumitru,EXAM,05/28/2025,13:00,05/28/2025,16:15,Bucuresti
+Cosmin Chirazi,EXAM,05/28/2025,13:00,05/28/2025,17:30,Bucuresti
+Andrei Octavian Minca,EXAM,05/28/2025,14:00,05/28/2025,17:30,Bucuresti
+Andrei Margelatu,EXAM,05/28/2025,16:30,05/28/2025,19:30,Bucuresti
+Costin Manolescu,FACULTY,05/28/2025,19:00,05/28/2025,21:00,Bucuresti
+Andrei Margelatu,PROJECT,05/28/2025,19:30,05/28/2025,21:00,Bucuresti
+Stefan Nicolae Gheorghiu,EXAM,05/29/2025,12:00,05/29/2025,15:00,Bucuresti
+Robert Alexandru Badea,EXAM,05/29/2025,14:30,05/29/2025,17:30,Bucuresti
+Alin Avram,PROJECT,05/29/2025,14:40,05/29/2025,18:00,Bucuresti
+Alina Trincu,EXAM,05/29/2025,15:30,05/29/2025,18:30,Bucuresti
+Andrei Margelatu,EXAM,05/29/2025,16:00,05/29/2025,18:00,Bucuresti
+Andrei Octavian Minca,PROJECT,05/29/2025,18:00,05/29/2025,21:00,Bucuresti
+Andreea Cojocaru,EXAM,05/30/2025,00:00,06/02/2025,00:00,Bucuresti
+Alin Avram,EXAM,06/02/2025,14:00,06/02/2025,15:40,Bucuresti
+Stefan Nicolae Gheorghiu,PROJECT,06/02/2025,16:30,06/02/2025,18:00,Bucuresti
+Alin Avram,EXAM,06/03/2025,12:00,06/03/2025,13:00,Bucuresti
+Teodor Leahu,PROJECT,06/03/2025,14:30,06/03/2025,17:30,Bucuresti
+Delia Tudor,EXAM,06/03/2025,16:30,06/03/2025,19:30,Bucuresti
+Alexandru Toma,PROJECT,06/03/2025,20:20,06/03/2025,21:30,Bucuresti
+Mihai Alexandru Militaru,PROJECT,06/04/2025,11:00,06/04/2025,16:00,Bucuresti
+Tiberiu Iatan,EXAM,06/04/2025,12:00,06/04/2025,14:00,Bucuresti
+Tiberiu Iatan,EXAM,06/04/2025,14:00,06/04/2025,16:00,Bucuresti
+Andreea Cacenschi,EXAM,06/04/2025,15:00,06/04/2025,17:00,Bucuresti
+Cristian Valentin Alexa,EXAM,06/04/2025,19:30,06/04/2025,21:00,Bucuresti
+Teodor Leahu,PROJECT,06/04/2025,20:30,06/04/2025,23:30,Bucuresti
+Razvan Dumitru,EXAM,06/05/2025,13:00,06/05/2025,17:00,Bucuresti
+Andreea Cacenschi,EXAM,06/05/2025,18:00,06/05/2025,20:00,Bucuresti
+Robert Alexandru Badea,EXAM,06/05/2025,18:00,06/05/2025,21:00,Bucuresti
+Stefan Nicolae Gheorghiu,EXAM,06/06/2025,15:00,06/06/2025,16:30,Bucuresti
+Rares Anton Brezeanu,EXAM,06/06/2025,17:00,06/06/2025,19:00,Bucuresti
+Alexandru Mirea,EXAM,06/06/2025,19:00,06/06/2025,21:00,Bucuresti
+Adrian Visan,EXAM,06/06/2025,19:00,06/06/2025,20:00,Bucuresti
+Andreea Marina Son,PROJECT,06/06/2025,19:00,06/06/2025,21:00,Bucuresti
+Cosmin Chirazi,EXAM,06/10/2025,11:00,06/10/2025,15:00,Bucuresti
+Andreea Cacenschi,EXAM,06/10/2025,12:00,06/10/2025,14:00,Bucuresti
+Rares Anton Brezeanu,EXAM,06/10/2025,13:00,06/10/2025,15:00,Bucuresti
+Alexandru Mirea,EXAM,06/10/2025,13:00,06/10/2025,15:00,Bucuresti
+Simona Boicu,PROJECT,06/10/2025,13:30,06/10/2025,16:00,Bucuresti
+Razvan Dumitru,EXAM,06/10/2025,14:00,06/10/2025,18:00,Bucuresti
+Robert Alexandru Badea,EXAM,06/10/2025,16:00,06/10/2025,19:00,Bucuresti
+Alin Avram,EXAM,06/10/2025,19:00,06/10/2025,21:00,Bucuresti
+Adrian Visan,EXAM,06/10/2025,19:00,06/10/2025,21:00,Bucuresti
+Simona Boicu,EXAM,06/10/2025,20:00,06/10/2025,22:30,Bucuresti
+Andrei Ionascu,EXAM,06/11/2025,09:30,06/11/2025,12:30,Bucuresti
+Teodor Leahu,EXAM,06/11/2025,12:30,06/11/2025,15:00,Bucuresti
+Razvan Dumitru,EXAM,06/11/2025,16:00,06/11/2025,18:00,Bucuresti
+Cosmin Chirazi,EXAM,06/12/2025,12:00,06/12/2025,15:00,Bucuresti
+Andreea Cacenschi,EXAM,06/12/2025,13:00,06/12/2025,16:00,Bucuresti
+Raul Gabriel Chiorean,EXAM,06/13/2025,08:00,06/13/2025,12:00,Bucuresti
+Andrei Ionascu,EXAM,06/13/2025,09:30,06/13/2025,13:30,Bucuresti
+Alexandru Mirea,EXAM,06/13/2025,11:00,06/13/2025,13:00,Bucuresti
+Adrian Visan,EXAM,06/13/2025,12:00,06/13/2025,14:00,Bucuresti
+Teodor Leahu,EXAM,06/13/2025,12:30,06/13/2025,15:30,Bucuresti
+Rares Anton Brezeanu,EXAM,06/13/2025,13:00,06/13/2025,15:00,Bucuresti
+Andrei Margelatu,EXAM,06/13/2025,15:30,06/13/2025,18:30,Bucuresti
+Stefan Nicolae Gheorghiu,EXAM,06/13/2025,16:30,06/13/2025,18:30,Bucuresti
+Tiberiu Iatan,EXAM,06/13/2025,18:00,06/13/2025,21:00,Bucuresti
+Alin Avram,EXAM,06/13/2025,19:30,06/13/2025,21:30,Bucuresti
+Simona Boicu,EXAM,06/13/2025,20:00,06/13/2025,22:30,Bucuresti
+Andrei Ionascu,EXAM,06/16/2025,11:30,06/16/2025,15:30,Bucuresti
+Stefan Nicolae Gheorghiu,EXAM,06/16/2025,12:00,06/16/2025,14:00,Bucuresti
+Andrei Alexandru Gheorghe,FACULTY,06/16/2025,14:00,06/16/2025,16:00,Bucuresti
+Teodor Leahu,EXAM,06/16/2025,14:30,06/16/2025,17:30,Bucuresti
+Simona Boicu,EXAM,06/16/2025,20:00,06/16/2025,22:30,Bucuresti
+Teodor Leahu,EXAM,06/17/2025,11:30,06/17/2025,14:30,Bucuresti
+Mihai Alexandru Militaru,PROJECT,06/17/2025,12:00,06/17/2025,15:00,Bucuresti
+Adrian Visan,EXAM,06/17/2025,12:00,06/17/2025,14:00,Bucuresti
+Andrei Ionascu,EXAM,06/17/2025,13:00,06/17/2025,15:00,Bucuresti
+Alin Avram,EXAM,06/17/2025,13:30,06/17/2025,15:30,Bucuresti
+Anca Elena Ilie,FACULTY,06/17/2025,14:30,06/17/2025,15:30,Bucuresti
+Andrei Margelatu,EXAM,06/17/2025,15:00,06/17/2025,18:00,Bucuresti
+Rares Anton Brezeanu,ANNUAL LEAVE,06/18/2025,00:00,06/24/2025,00:00,Bucuresti
+Alexandra Zamfir,EXAM,06/18/2025,11:00,06/18/2025,14:00,Bucuresti
+Raul Gabriel Chiorean,EXAM,06/18/2025,15:00,06/18/2025,18:00,Bucuresti
+Simona Boicu,EXAM,06/18/2025,20:00,06/18/2025,22:30,Bucuresti
+Andrei Ionascu,EXAM,06/19/2025,10:30,06/19/2025,14:30,Bucuresti
+Teodor Leahu,EXAM,06/19/2025,13:30,06/19/2025,17:30,Bucuresti
+Tiberiu Iatan,GRADUATION,06/19/2025,15:00,06/19/2025,18:00,Bucuresti
+Mihai Alexandru Militaru,EXAM,06/19/2025,20:00,06/19/2025,23:00,Bucuresti
+Adrian Visan,EXAM,06/20/2025,12:00,06/20/2025,14:00,Bucuresti
+Alin Avram,EXAM,06/20/2025,13:30,06/20/2025,15:30,Bucuresti
+Raul Gabriel Chiorean,EXAM,06/23/2025,10:00,06/23/2025,14:00,Bucuresti
+Robert Alexandru Badea,PROJECT,06/23/2025,17:00,06/23/2025,19:30,Bucuresti
+Costin Manolescu,PROJECT,06/23/2025,18:00,06/23/2025,20:00,Bucuresti
+Andrei Margelatu,EXAM,06/23/2025,18:30,06/23/2025,20:30,Bucuresti
+Alexandru Mirea,PROJECT,06/23/2025,19:00,06/23/2025,21:00,Bucuresti
+Andreea Cacenschi,EXAM,06/24/2025,16:00,06/24/2025,18:00,Bucuresti
+Andrei Margelatu,EXAM,06/24/2025,18:30,06/24/2025,20:30,Bucuresti
+Tiberiu Iatan,ANNUAL LEAVE,06/25/2025,00:00,06/26/2025,00:00,Bucuresti
+Simona Boicu,EXAM,06/25/2025,20:00,06/25/2025,22:30,Bucuresti
+Anca Elena Ilie,EXAM,06/26/2025,12:00,06/26/2025,13:30,Bucuresti
+Cosmin Gabriel Mirea,ANNUAL LEAVE,06/27/2025,00:00,06/28/2025,00:00,Bucuresti
+Alina Trincu,GRADUATION,06/27/2025,00:00,06/28/2025,00:00,Bucuresti
+Alina Trincu,EXAM,06/30/2025,13:00,06/30/2025,17:30,Bucuresti
+Andrei Margelatu,ANNUAL LEAVE,07/03/2025,00:00,07/08/2025,00:00,Bucuresti
+Anca Elena Ilie,PROJECT,07/03/2025,13:00,07/03/2025,15:00,Bucuresti
+Madalina Demian,ANNUAL LEAVE,07/07/2025,00:00,07/08/2025,00:00,Bucuresti
+Dan Teodor Buzoianu,ANNUAL LEAVE,07/07/2025,00:00,07/08/2025,00:00,Bucuresti
+Alexandru Catrinescu,ANNUAL LEAVE,07/09/2025,00:00,07/15/2025,00:00,Bucuresti
+Alexandra Zamfir,ANNUAL LEAVE,07/09/2025,00:00,07/20/2025,00:00,Bucuresti
+Anca Elena Ilie,GRADUATION,07/09/2025,17:00,07/09/2025,19:00,Bucuresti
+Teodor Badarcea,ANNUAL LEAVE,07/11/2025,00:00,07/12/2025,00:00,Bucuresti
+Filip Craciun,ANNUAL LEAVE,07/11/2025,00:00,07/19/2025,00:00,Bucuresti
+Mihai Alexandru Ionel,EXAM,07/11/2025,00:00,07/12/2025,00:00,Bucuresti
+Mihai Alexandru Ionel,ANNUAL LEAVE,07/14/2025,00:00,07/15/2025,00:00,Bucuresti
+Robert Alexandru Badea,ANNUAL LEAVE,07/16/2025,00:00,07/19/2025,00:00,Bucuresti
+Darius Dinu,ANNUAL LEAVE,07/16/2025,00:00,07/19/2025,00:00,Bucuresti
+Alina Trincu,ANNUAL LEAVE,07/17/2025,00:00,07/19/2025,00:00,Bucuresti
+Cosmin Carp,ANNUAL LEAVE,07/18/2025,00:00,07/22/2025,00:00,Bucuresti
+Eduard George Stan,EXAM,07/18/2025,00:00,07/26/2025,00:00,Bucuresti
+Razvan Azoitei,ANNUAL LEAVE,08/04/2025,00:00,08/09/2025,00:00,Bucuresti
+Andrei Alexandru Gheorghe,ANNUAL LEAVE,08/12/2025,00:00,08/23/2025,00:00,Bucuresti
+Anca Elena Ilie,FACULTY,08/18/2025,00:00,08/23/2025,00:00,Bucuresti
+Robert Alexandru Badea,ANNUAL LEAVE,08/18/2025,00:00,08/23/2025,00:00,Bucuresti
+Alin Avram,ANNUAL LEAVE,08/20/2025,00:00,08/26/2025,00:00,Bucuresti
+Cosmin Carp,ANNUAL LEAVE,08/22/2025,00:00,08/26/2025,00:00,Bucuresti
+Teodor Leahu,ANNUAL LEAVE,08/25/2025,00:00,08/30/2025,00:00,Bucuresti
+Simona Boicu,ANNUAL LEAVE,09/04/2025,00:00,09/06/2025,00:00,Bucuresti
+Simona Boicu,ANNUAL LEAVE,09/08/2025,00:00,09/13/2025,00:00,Bucuresti
+Teodor Badarcea,ANNUAL LEAVE,09/08/2025,00:00,09/13/2025,00:00,Bucuresti
+Robert Alexandru Badea,ANNUAL LEAVE,09/19/2025,00:00,09/25/2025,00:00,Bucuresti
+Robert Alexandru Badea,ANNUAL LEAVE,11/27/2025,00:00,11/28/2025,00:00,Bucuresti

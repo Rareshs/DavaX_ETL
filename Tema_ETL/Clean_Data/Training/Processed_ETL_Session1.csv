@@ -1,0 +1,328 @@
+Name,First Join,Last Leave,In-Meeting Duration,Email,Participant ID (UPN),Role,Calculated_duration,Duration_minutes
+Alexandru Burlica,2025-06-24 13:47:49,2025-06-24 15:32:37,1h 41m 47s,Alexandru.Burlica@endava.com,Alexandru.Burlica@endava.com,Presenter,1:44:48,104.8
+Emanuel Luculescu,2025-06-24 13:47:54,2025-06-24 15:32:30,1h 44m 35s,Emanuel.Luculescu@endava.com,Emanuel.Luculescu@endava.com,Presenter,1:44:36,104.6
+Radu Ioan Maris,2025-06-24 13:47:54,2025-06-24 15:32:33,1h 44m 38s,Radu-Ioan.Maris@endava.com,Radu-Ioan.Maris@endava.com,Presenter,1:44:39,104.6
+Daniel Antoniu Dumitru,2025-06-24 13:47:55,2025-06-24 15:32:35,1h 34m 3s,Daniel-Antoniu.Dumitru@endava.com,Daniel-Antoniu.Dumitru@endava.com,Presenter,1:44:40,104.7
+Andreea Grecu,2025-06-24 13:47:56,2025-06-24 15:31:17,1h 34m 45s,Andreea.Grecu2@endava.com,Andreea.Grecu2@endava.com,Presenter,1:43:21,103.4
+Gabriela Miruna Stan,2025-06-24 13:47:57,2025-06-24 15:46:52,1h 43m 37s,Gabriela-Miruna.Stan@endava.com,Gabriela-Miruna.Stan@endava.com,Presenter,1:58:55,118.9
+Paul Valentin Vela,2025-06-24 13:47:58,2025-06-24 15:22:58,1h 28m 8s,Paul-Valentin.Vela@endava.com,Paul-Valentin.Vela@endava.com,Presenter,1:35:00,95.0
+Alexandra Simona Danca,2025-06-24 13:47:59,2025-06-24 15:32:30,1h 32m 39s,Alexandra-Simona.Danca@endava.com,Alexandra-Simona.Danca@endava.com,Presenter,1:44:31,104.5
+Rares Muresan,2025-06-24 13:47:59,2025-06-24 15:32:34,1h 44m 34s,Rares.Muresan@endava.com,Rares.Muresan@endava.com,Presenter,1:44:35,104.6
+Florina Eugenia Hategan,2025-06-24 13:47:59,2025-06-24 15:23:57,1h 35m 58s,Florina---Eugenia.Hategan@endava.com,Florina---Eugenia.Hategan@endava.com,Presenter,1:35:58,96.0
+Darius Cosmin Vararean,2025-06-24 13:48:00,2025-06-24 15:32:44,1h 35m 32s,Darius-Cosmin.Vararean@endava.com,Darius-Cosmin.Vararean@endava.com,Presenter,1:44:44,104.7
+Rares Anton Brezeanu,2025-06-24 13:48:00,2025-06-24 15:24:14,1h 36m 13s,Rares-Anton.Brezeanu@endava.com,Rares-Anton.Brezeanu@endava.com,Presenter,1:36:14,96.2
+Radu Nicolae,2025-06-24 13:48:01,2025-06-24 15:32:26,1h 41m 33s,Radu-Mihai.Nicoale@endava.com,Radu-Mihai.Nicoale@endava.com,Presenter,1:44:25,104.4
+Stefan Gabriel Verde,2025-06-24 13:48:04,2025-06-24 15:22:04,1h 33m 59s,Stefan-Gabriel.Verde@endava.com,Stefan-Gabriel.Verde@endava.com,Presenter,1:34:00,94.0
+Stefan Liute,2025-06-24 13:48:05,2025-06-24 15:45:19,1h 35m 56s,Stefan.Liute@endava.com,Stefan.Liute@endava.com,Presenter,1:57:14,117.2
+Cosmin-Nicusor Brumariu,2025-06-24 13:48:05,2025-06-24 15:32:29,1h 44m 24s,Cosmin-Nicusor.Brumariu@endava.com,Cosmin-Nicusor.Brumariu@endava.com,Presenter,1:44:24,104.4
+Arthur Negosanu,2025-06-24 13:48:06,2025-06-24 15:32:33,1h 42m 8s,Arthur.Negosanu@endava.com,Arthur.Negosanu@endava.com,Presenter,1:44:27,104.4
+Madalina Puia,2025-06-24 13:48:07,2025-06-24 15:30:39,1h 36m 2s,Madalina.Puia@endava.com,Madalina.Puia@endava.com,Presenter,1:42:32,102.5
+Vlad Ionut Guriuc,2025-06-24 13:48:11,2025-06-24 15:32:30,1h 44m 19s,Vlad-Ionut.Guriuc@endava.com,Vlad-Ionut.Guriuc@endava.com,Presenter,1:44:19,104.3
+Sebastian Cristian Sleam,2025-06-24 13:48:11,2025-06-24 15:32:27,1h 44m 15s,Sebastian-Cristian.Sleam@endava.com,Sebastian-Cristian.Sleam@endava.com,Presenter,1:44:16,104.3
+Andrei Margelatu,2025-06-24 13:48:12,2025-06-24 15:05:48,1h 17m 35s,Andrei.Margelatu@endava.com,Andrei.Margelatu@endava.com,Presenter,1:17:36,77.6
+Mihnea Sebastian Ilie Encean,2025-06-24 13:48:15,2025-06-24 15:32:35,1h 44m 20s,Mihnea-Sebastian-Ilie.Encean@endava.com,Mihnea-Sebastian-Ilie.Encean@endava.com,Presenter,1:44:20,104.3
+Stefan Tiberiu Paduraru,2025-06-24 13:48:18,2025-06-24 15:32:35,1h 44m 16s,Stefan-Tiberiu.Paduraru@endava.com,Stefan-Tiberiu.Paduraru@endava.com,Presenter,1:44:17,104.3
+Ferdinand Alexandru Cabat,2025-06-24 13:48:24,2025-06-24 15:32:28,1h 42m 5s,Ferdinand-Alexandru.Cabat@endava.com,Ferdinand-Alexandru.Cabat@endava.com,Presenter,1:44:04,104.1
+Bianca Anamaria Chiorean,2025-06-24 13:48:26,2025-06-24 15:32:30,1h 44m 3s,Bianca-Anamaria.Chiorean@endava.com,Bianca-Anamaria.Chiorean@endava.com,Presenter,1:44:04,104.1
+Andrei Alexandru Gheorghe,2025-06-24 13:48:32,2025-06-24 15:32:34,1h 39m 21s,Andrei-Alexandru.Gheorghe@endava.com,Andrei-Alexandru.Gheorghe@endava.com,Presenter,1:44:02,104.0
+Ioana Victoria Zinveliu,2025-06-24 13:48:36,2025-06-24 15:30:38,1h 35m 29s,Ioana-Victoria.Zinveliu@endava.com,Ioana-Victoria.Zinveliu@endava.com,Presenter,1:42:02,102.0
+Alexandru Mihai Matei,2025-06-24 13:48:38,2025-06-24 15:24:57,1h 36m 19s,Alexandru-Mihai.Matei@endava.com,Alexandru-Mihai.Matei@endava.com,Presenter,1:36:19,96.3
+Adelin Andrei Fulop,2025-06-24 13:48:41,2025-06-24 15:22:57,1h 34m 15s,Adelin-Andrei.Fulop@endava.com,Adelin-Andrei.Fulop@endava.com,Presenter,1:34:16,94.3
+Marcos Dimitris Fetcu,2025-06-24 13:48:44,2025-06-24 15:32:33,1h 39m 41s,Marcos-Dimitris.Fetcu@endava.com,Marcos-Dimitris.Fetcu@endava.com,Presenter,1:43:49,103.8
+Andrei Madalin Diaconu,2025-06-24 13:48:44,2025-06-24 15:26:53,1h 38m 8s,Andrei-Madalin.Diaconu@endava.com,Andrei-Madalin.Diaconu@endava.com,Presenter,1:38:09,98.2
+Sabin Chirila,2025-06-24 13:48:49,2025-06-24 15:32:35,1h 43m 45s,Sabin.Chirila@endava.com,Sabin.Chirila@endava.com,Presenter,1:43:46,103.8
+Luisa Yi Qing Yang,2025-06-24 13:49:10,2025-06-24 15:32:37,1h 43m 27s,Luisa-Yi-Qing.Yang@endava.com,Luisa-Yi-Qing.Yang@endava.com,Presenter,1:43:27,103.4
+Andrei Andries,2025-06-24 13:49:12,2025-06-24 15:32:28,1h 43m 16s,Andrei.Andries@endava.com,Andrei.Andries@endava.com,Presenter,1:43:16,103.3
+Dan Teodor Buzoianu,2025-06-24 13:49:16,2025-06-24 15:22:10,1h 32m 54s,Dan-Teodor.Buzoianu@endava.com,Dan-Teodor.Buzoianu@endava.com,Presenter,1:32:54,92.9
+Polina Ciumac,2025-06-24 13:49:17,2025-06-24 15:32:32,1h 43m 15s,Polina.Ciumac@endava.com,Polina.Ciumac@endava.com,Presenter,1:43:15,103.2
+Daniel Rotaru,2025-06-24 13:49:19,2025-06-24 15:32:31,1h 43m 12s,Daniel.Rotaru@endava.com,Daniel.Rotaru@endava.com,Presenter,1:43:12,103.2
+Alexandru Marian Armanu,2025-06-24 13:49:19,2025-06-24 15:32:28,1h 43m 9s,Alexandru-Marian.Armanu@endava.com,Alexandru-Marian.Armanu@endava.com,Presenter,1:43:09,103.2
+Mihai Alexandru Ionel,2025-06-24 13:49:33,2025-06-24 15:22:06,1h 32m 32s,Mihai-Alexandru.Ionel@endava.com,Mihai-Alexandru.Ionel@endava.com,Presenter,1:32:33,92.6
+Ioana Alexia Popa,2025-06-24 13:49:39,2025-06-24 15:32:29,1h 42m 49s,Ioana-Alexia.Popa@endava.com,Ioana-Alexia.Popa@endava.com,Presenter,1:42:50,102.8
+Sorin Cristian Miron,2025-06-24 13:49:42,2025-06-24 15:32:31,1h 42m 49s,Sorin-Cristian.Miron@endava.com,Sorin-Cristian.Miron@endava.com,Presenter,1:42:49,102.8
+Andrei Ionascu,2025-06-24 13:49:45,2025-06-24 15:22:53,1h 33m 7s,Andrei.Ionascu@endava.com,Andrei.Ionascu@endava.com,Presenter,1:33:08,93.1
+Bogdan Ionut Tibuleac,2025-06-24 13:49:46,2025-06-24 15:32:32,1h 42m 45s,Bogdan-Ionut.Tibuleac@endava.com,Bogdan-Ionut.Tibuleac@endava.com,Presenter,1:42:46,102.8
+Teodora Maximiuc,2025-06-24 13:49:51,2025-06-24 15:32:33,1h 42m 41s,Teodora.Maximiuc@endava.com,Teodora.Maximiuc@endava.com,Presenter,1:42:42,102.7
+Sanda Dobrenco,2025-06-24 13:50:07,2025-06-24 15:31:39,1h 41m 32s,Sanda.Dobrenco@endava.com,Sanda.Dobrenco@endava.com,Presenter,1:41:32,101.5
+Alexandra Elena Pitaru,2025-06-24 13:50:14,2025-06-24 15:32:31,1h 40m 7s,Alexandra-Elena.Pitaru@endava.com,Alexandra-Elena.Pitaru@endava.com,Presenter,1:42:17,102.3
+Bogdan Patrania,2025-06-24 13:50:29,2025-06-24 15:32:34,1h 42m 4s,Bogdan.Patrania@endava.com,Bogdan.Patrania@endava.com,Presenter,1:42:05,102.1
+Alexandru Catrinescu,2025-06-24 13:50:39,2025-06-24 15:32:31,1h 41m 52s,Alexandru.Catrinescu@endava.com,Alexandru.Catrinescu@endava.com,Presenter,1:41:52,101.9
+Razvan Dumitru,2025-06-24 13:50:45,2025-06-24 15:32:32,1h 41m 46s,Razvan.Dumitru@endava.com,Razvan.Dumitru@endava.com,Presenter,1:41:47,101.8
+Vlad Muresan,2025-06-24 13:50:55,2025-06-24 15:32:41,1h 41m 46s,Vlad.Muresan3@endava.com,Vlad.Muresan3@endava.com,Presenter,1:41:46,101.8
+Adina Gheorghevici,2025-06-24 13:50:56,2025-06-24 15:23:37,1h 32m 40s,Adina.Gheorghevici@endava.com,Adina.Gheorghevici@endava.com,Presenter,1:32:41,92.7
+Iasmina Pagu,2025-06-24 13:51:02,2025-06-24 15:32:29,1h 41m 27s,Iasmina-Andra.Pagu@endava.com,Iasmina-Andra.Pagu@endava.com,Presenter,1:41:27,101.4
+Madalina Demian,2025-06-24 13:51:04,2025-06-24 15:08:19,1h 17m 14s,Madalina.Demian@endava.com,Madalina.Demian@endava.com,Presenter,1:17:15,77.2
+Dumitru Andrei Iroftei,2025-06-24 13:51:17,2025-06-24 15:32:30,1h 41m 12s,Dumitru-Andrei.Iroftei@endava.com,Dumitru-Andrei.Iroftei@endava.com,Presenter,1:41:13,101.2
+Alexandru Zosin,2025-06-24 13:51:18,2025-06-24 15:32:30,1h 41m 11s,Alexandru.Zosin@endava.com,Alexandru.Zosin@endava.com,Presenter,1:41:12,101.2
+Gheorghe-Cristian Terovan,2025-06-24 13:51:18,2025-06-24 15:22:31,1h 23m 50s,Gheorghe-Cristian.Terovan@endava.com,Gheorghe-Cristian.Terovan@endava.com,Presenter,1:31:13,91.2
+Cosmin Adrian Neamtiu,2025-06-24 13:51:22,2025-06-24 15:32:33,1h 41m 11s,Cosmin-Adrian.Neamtiu@endava.com,Cosmin-Adrian.Neamtiu@endava.com,Presenter,1:41:11,101.2
+Alexandra Zamfir,2025-06-24 13:51:29,2025-06-24 14:58:37,1h 6m,Alexandra.Zamfir@endava.com,Alexandra.Zamfir@endava.com,Presenter,1:07:08,67.1
+Costin Manolescu,2025-06-24 13:51:36,2025-06-24 15:32:32,1h 38m 58s,Costin.Manolescu@endava.com,Costin.Manolescu@endava.com,Presenter,1:40:56,100.9
+Theodor Cristian Gheorghe,2025-06-24 13:51:44,2025-06-24 15:33:01,1h 41m 16s,Theodor-Cristian.Gheorghe@endava.com,Theodor-Cristian.Gheorghe@endava.com,Presenter,1:41:17,101.3
+Denis Roca,2025-06-24 13:51:46,2025-06-24 15:35:08,1h 43m 22s,Denis.Roca@endava.com,Denis.Roca@endava.com,Presenter,1:43:22,103.4
+Alex Rares Roman,2025-06-24 13:51:53,2025-06-24 15:32:30,1h 40m 37s,Alex-Rares.Roman@endava.com,Alex-Rares.Roman@endava.com,Presenter,1:40:37,100.6
+Alexandru Toma,2025-06-24 13:51:55,2025-06-24 15:32:29,1h 37m 2s,Alexandru.Toma@endava.com,Alexandru.Toma@endava.com,Presenter,1:40:34,100.6
+Iulia Olivia Cipleu,2025-06-24 13:52:00,2025-06-24 15:32:33,1h 40m 33s,Iulia-Olivia.Cipleu@endava.com,Iulia-Olivia.Cipleu@endava.com,Presenter,1:40:33,100.6
+Catalin Ursu,2025-06-24 13:52:09,2025-06-24 15:23:26,1h 31m 16s,Catalin.Ursu@endava.com,Catalin.Ursu@endava.com,Presenter,1:31:17,91.3
+Maria Madalina Olaru,2025-06-24 13:52:10,2025-06-24 15:32:34,1h 40m 23s,Maria-Madalina.Olaru@endava.com,Maria-Madalina.Olaru@endava.com,Presenter,1:40:24,100.4
+George Stefan Bodogae,2025-06-24 13:52:20,2025-06-24 15:32:32,1h 40m 12s,George-Stefan.Bodogae@endava.com,George-Stefan.Bodogae@endava.com,Presenter,1:40:12,100.2
+Simona Boicu,2025-06-24 13:52:20,2025-06-24 15:32:34,1h 40m 13s,Simona.Boicu@endava.com,Simona.Boicu@endava.com,Presenter,1:40:14,100.2
+Timotei Cristian Morar,2025-06-24 13:52:21,2025-06-24 15:32:29,1h 35m 8s,Timotei-Cristian.Morar@endava.com,Timotei-Cristian.Morar@endava.com,Presenter,1:40:08,100.1
+Silviu Mihail Pavel,2025-06-24 13:52:22,2025-06-24 15:32:29,1h 40m 6s,Silviu-Mihail.Pavel@endava.com,Silviu-Mihail.Pavel@endava.com,Presenter,1:40:07,100.1
+Ana Stefania Serbanoiu,2025-06-24 13:52:31,2025-06-24 15:32:33,1h 40m 1s,Ana-Stefania.Serbanoiu@endava.com,Ana-Stefania.Serbanoiu@endava.com,Presenter,1:40:02,100.0
+Cristian Ghiuta,2025-06-24 13:52:34,2025-06-24 15:32:32,1h 39m 58s,Cristian.Ghiuta@endava.com,Cristian.Ghiuta@endava.com,Presenter,1:39:58,100.0
+Constantin Voicu,2025-06-24 13:52:35,2025-06-24 15:32:30,1h 39m 54s,Constantin.Voicu@endava.com,Constantin.Voicu@endava.com,Presenter,1:39:55,99.9
+Ioana Botezatu,2025-06-24 13:52:46,2025-06-24 15:32:30,1h 35m 7s,Ioana.Botezatu@endava.com,Ioana.Botezatu@endava.com,Presenter,1:39:44,99.7
+Razvan Niculae,2025-06-24 13:53:00,2025-06-24 15:32:39,1h 35m 36s,razvan.niculae@endava.com,razvan.niculae@endava.com,Presenter,1:39:39,99.6
+Florin Nita,2025-06-24 13:53:11,2025-06-24 15:29:58,1h 35m 35s,Florin.Nita@endava.com,Florin.Nita@endava.com,Presenter,1:36:47,96.8
+Andrei Octavian Minca,2025-06-24 13:53:12,2025-06-24 14:58:41,1h 3m 30s,Andrei-Octavian.Minca@endava.com,Andrei-Octavian.Minca@endava.com,Presenter,1:05:29,65.5
+Liviu Istrate,2025-06-24 13:53:17,2025-06-24 15:46:48,1h 39m 44s,Liviu.Istrate2@endava.com,Liviu.Istrate2@endava.com,Presenter,1:53:31,113.5
+Andrei Mihnea,2025-06-24 13:53:20,2025-06-24 15:32:32,1h 39m 11s,Andrei.Mihnea@endava.com,Andrei.Mihnea@endava.com,Presenter,1:39:12,99.2
+Robert-Cosmin Tudorache,2025-06-24 13:53:26,2025-06-24 15:32:32,1h 39m 6s,Robert-Cosmin.Tudorache@endava.com,Robert-Cosmin.Tudorache@endava.com,Presenter,1:39:06,99.1
+Daria Lupu Dima,2025-06-24 13:53:28,2025-06-24 15:22:51,1h 29m 22s,Daria.Lupu@endava.com,Daria.Lupu@endava.com,Presenter,1:29:23,89.4
+Denisa Lutic,2025-06-24 13:53:30,2025-06-24 15:32:32,1h 39m 1s,Denisa.Lutic@endava.com,Denisa.Lutic@endava.com,Presenter,1:39:02,99.0
+Oana-Maria Danciu,2025-06-24 13:53:34,2025-06-24 15:32:31,1h 38m 56s,Oana-Maria.Danciu@endava.com,Oana-Maria.Danciu@endava.com,Presenter,1:38:57,99.0
+Bogdan Vasile Spilevoi,2025-06-24 13:53:34,2025-06-24 15:24:03,1h 30m 28s,Bogdan-Vasile.Spilevoi@endava.com,Bogdan-Vasile.Spilevoi@endava.com,Presenter,1:30:29,90.5
+Armin Andrei Chanchian,2025-06-24 13:53:50,2025-06-24 15:23:58,1h 30m 8s,Armin-Andrei.Chanchian@endava.com,Armin-Andrei.Chanchian@endava.com,Presenter,1:30:08,90.1
+Cosmin Chirazi,2025-06-24 13:53:51,2025-06-24 15:22:41,1h 28m 49s,Cosmin.Chirazi@endava.com,Cosmin.Chirazi@endava.com,Presenter,1:28:50,88.8
+Gabriel Firisar,2025-06-24 13:53:56,2025-06-24 15:32:35,1h 38m 39s,Gabriel.Firisar@endava.com,Gabriel.Firisar@endava.com,Presenter,1:38:39,98.6
+David Postolea,2025-06-24 13:53:56,2025-06-24 15:19:03,1h 25m 7s,David.Postolea@endava.com,David.Postolea@endava.com,Presenter,1:25:07,85.1
+Tiberiu Gabriel Suditu,2025-06-24 13:54:04,2025-06-24 15:32:27,1h 38m 23s,Tiberiu-Gabriel.Suditu@endava.com,Tiberiu-Gabriel.Suditu@endava.com,Presenter,1:38:23,98.4
+Denisa Elena Stolniceanu,2025-06-24 13:54:06,2025-06-24 15:32:28,1h 38m 21s,Denisa-Elena.Stolniceanu@endava.com,Denisa-Elena.Stolniceanu@endava.com,Presenter,1:38:22,98.4
+Alina Trincu,2025-06-24 13:54:11,2025-06-24 15:08:26,1h 14m 15s,Alina.Trincu@endava.com,Alina.Trincu@endava.com,Presenter,1:14:15,74.2
+Adina Denisa Horj,2025-06-24 13:54:19,2025-06-24 15:32:28,1h 38m 9s,Adina-Denisa.Horj@endava.com,Adina-Denisa.Horj@endava.com,Presenter,1:38:09,98.2
+Darius Fratila,2025-06-24 13:54:19,2025-06-24 15:32:32,1h 38m 13s,Darius.Fratila@endava.com,Darius.Fratila@endava.com,Presenter,1:38:13,98.2
+Veronica Caplea,2025-06-24 13:54:26,2025-06-24 15:32:33,1h 38m 6s,Veronica.Caplea@endava.com,Veronica.Caplea@endava.com,Presenter,1:38:07,98.1
+Andrei Tudor Grumazescu,2025-06-24 13:54:30,2025-06-24 15:14:45,1h 20m 14s,Andrei-Tudor.Grumazescu@endava.com,Andrei-Tudor.Grumazescu@endava.com,Presenter,1:20:15,80.2
+Vlad Ioan Durdeu,2025-06-24 13:54:42,2025-06-24 15:32:33,1h 37m 50s,Vlad-Ioan.Durdeu@endava.com,Vlad-Ioan.Durdeu@endava.com,Presenter,1:37:51,97.8
+Reka Katalin Darko,2025-06-24 13:54:48,2025-06-24 15:32:32,1h 37m 43s,Reka-Katalin.Darko@endava.com,Reka-Katalin.Darko@endava.com,Presenter,1:37:44,97.7
+Delia Tudor,2025-06-24 13:54:49,2025-06-24 15:32:29,1h 37m 39s,Delia.Tudor@endava.com,Delia.Tudor@endava.com,Presenter,1:37:40,97.7
+Diandra Fechita,2025-06-24 13:54:51,2025-06-24 15:32:28,1h 37m 37s,Diandra.Fechita@endava.com,Diandra.Fechita@endava.com,Presenter,1:37:37,97.6
+Bogdan Nicolae Cotta,2025-06-24 13:54:55,2025-06-24 15:32:33,1h 37m 38s,Bogdan-Nicolae.Cotta@endava.com,Bogdan-Nicolae.Cotta@endava.com,Presenter,1:37:38,97.6
+Tudor Mihai,2025-06-24 13:54:58,2025-06-24 15:32:28,1h 37m 30s,Tudor.Mihai@endava.com,Tudor.Mihai@endava.com,Presenter,1:37:30,97.5
+Vlad Baranceanu,2025-06-24 13:54:58,2025-06-24 15:32:31,1h 37m 33s,Vlad.Baranceanu@endava.com,Vlad.Baranceanu@endava.com,Presenter,1:37:33,97.6
+Eric Marian Dascalu,2025-06-24 13:54:58,2025-06-24 15:32:40,1h 37m 42s,Eric-Marian.Dascalu@endava.com,Eric-Marian.Dascalu@endava.com,Presenter,1:37:42,97.7
+Mihai-Alexandru Birziloiu,2025-06-24 13:54:59,2025-06-24 15:32:31,1h 37m 32s,Mihai-Alexandru.Birziloiu@endava.com,Mihai-Alexandru.Birziloiu@endava.com,Presenter,1:37:32,97.5
+Eduard George Stan,2025-06-24 13:55:00,2025-06-24 15:32:35,1h 37m 34s,Eduard-George.Stan@endava.com,Eduard-George.Stan@endava.com,Presenter,1:37:35,97.6
+Rafael Ionut Stefanache,2025-06-24 13:55:02,2025-06-24 15:09:10,1h 10m 34s,Rafael-Ionut.Stefanache@endava.com,Rafael-Ionut.Stefanache@endava.com,Presenter,1:14:08,74.1
+Remus Mihai Prodan,2025-06-24 13:55:04,2025-06-24 15:32:32,1h 37m 28s,Remus-Mihai.Prodan@endava.com,Remus-Mihai.Prodan@endava.com,Presenter,1:37:28,97.5
+Vlad V Muresan,2025-06-24 13:55:04,2025-06-24 15:32:28,1h 37m 24s,Vlad.Muresan2@endava.com,Vlad.Muresan2@endava.com,Presenter,1:37:24,97.4
+Patricia Costras,2025-06-24 13:55:08,2025-06-24 15:32:29,1h 37m 20s,Patricia.Costras@endava.com,Patricia.Costras@endava.com,Presenter,1:37:21,97.4
+Vlad Badulescu,2025-06-24 13:55:19,2025-06-24 15:09:21,1h 14m 1s,Vlad.Badulescu@endava.com,Vlad.Badulescu@endava.com,Presenter,1:14:02,74.0
+Calin Ciobanu,2025-06-24 13:55:23,2025-06-24 15:32:31,1h 37m 7s,Calin.Ciobanu@endava.com,Calin.Ciobanu@endava.com,Presenter,1:37:08,97.1
+Andrei L Popovici,2025-06-24 13:55:25,2025-06-24 15:32:32,1h 37m 6s,Andrei.Popovici2@endava.com,Andrei.Popovici2@endava.com,Presenter,1:37:07,97.1
+Daria Alexia Irimie,2025-06-24 13:55:30,2025-06-24 15:32:42,1h 37m 12s,Daria-Alexia.Irimie@endava.com,Daria-Alexia.Irimie@endava.com,Presenter,1:37:12,97.2
+Stefan Stescu,2025-06-24 13:55:30,2025-06-24 15:32:34,1h 37m 3s,Stefan.Stescu@endava.com,Stefan.Stescu@endava.com,Presenter,1:37:04,97.1
+Ioana Marc,2025-06-24 13:55:32,2025-06-24 15:32:34,1h 37m 1s,Ioana.Marc2@endava.com,Ioana.Marc2@endava.com,Presenter,1:37:02,97.0
+Alexandru Topan-Farcau,2025-06-24 13:55:40,2025-06-24 15:32:34,1h 36m 53s,Alexandru.Topan@endava.com,Alexandru.Topan@endava.com,Presenter,1:36:54,96.9
+Daria Craciun,2025-06-24 13:55:44,2025-06-24 15:32:32,1h 36m 48s,Daria.Craciun@endava.com,Daria.Craciun@endava.com,Presenter,1:36:48,96.8
+Andreea Cront,2025-06-24 13:55:49,2025-06-24 15:32:34,1h 36m 44s,Andreea.Cront@endava.com,Andreea.Cront@endava.com,Presenter,1:36:45,96.8
+Andrada Maria Tinta,2025-06-24 13:55:49,2025-06-24 15:32:31,1h 36m 41s,Andrada-Maria.Tinta@endava.com,Andrada-Maria.Tinta@endava.com,Presenter,1:36:42,96.7
+Raul Mihai Rusu,2025-06-24 13:55:51,2025-06-24 15:32:39,1h 36m 48s,Raul-Mihai.Rusu@endava.com,Raul-Mihai.Rusu@endava.com,Presenter,1:36:48,96.8
+Carmen-Gabriela Nadragea,2025-06-24 13:55:52,2025-06-24 15:32:33,1h 36m 40s,Carmen-Gabriela.Nadragea@endava.com,Carmen-Gabriela.Nadragea@endava.com,Presenter,1:36:41,96.7
+Claudiu Marinescu,2025-06-24 13:55:55,2025-06-24 15:23:33,1h 27m 37s,Claudiu.Marinescu@endava.com,Claudiu.Marinescu@endava.com,Presenter,1:27:38,87.6
+Gabriel Alexandru Nedelcu,2025-06-24 13:55:55,2025-06-24 15:32:35,1h 36m 39s,Gabriel-Alexandru.Nedelcu@endava.com,Gabriel-Alexandru.Nedelcu@endava.com,Presenter,1:36:40,96.7
+Alexandru Dumitru Ionita,2025-06-24 13:55:56,2025-06-24 15:32:22,1h 36m 25s,Alex.Ionita@endava.com,Alex.Ionita@endava.com,Presenter,1:36:26,96.4
+Robert Negre,2025-06-24 13:55:58,2025-06-24 15:32:33,1h 36m 34s,Robert.Negre@endava.com,Robert.Negre@endava.com,Presenter,1:36:35,96.6
+Dragos Ionut Talaba,2025-06-24 13:56:05,2025-06-24 15:32:29,1h 36m 23s,Dragos-Ionut.Talaba@endava.com,Dragos-Ionut.Talaba@endava.com,Presenter,1:36:24,96.4
+Mihai Negrea,2025-06-24 13:56:11,2025-06-24 15:32:34,1h 33m 58s,Mihai.Negrea@endava.com,Mihai.Negrea@endava.com,Presenter,1:36:23,96.4
+Miruna Curduman,2025-06-24 13:56:14,2025-06-24 15:32:30,1h 36m 16s,Miruna.Curduman@endava.com,Miruna.Curduman@endava.com,Presenter,1:36:16,96.3
+Alexandru Chelaru,2025-06-24 13:56:17,2025-06-24 15:32:33,1h 36m 15s,Alexandru.Chelaru@endava.com,Alexandru.Chelaru@endava.com,Presenter,1:36:16,96.3
+Irina Morosanu,2025-06-24 13:56:19,2025-06-24 15:32:31,1h 36m 11s,Irina.Morosanu@endava.com,Irina.Morosanu@endava.com,Presenter,1:36:12,96.2
+George-Catalin Ghiold,2025-06-24 13:56:20,2025-06-24 15:32:30,1h 36m 10s,George-Catalin.Ghiold@endava.com,George-Catalin.Ghiold@endava.com,Presenter,1:36:10,96.2
+Luka Popovici,2025-06-24 13:56:21,2025-06-24 15:46:44,1h 50m 22s,Luka.Popovici@endava.com,Luka.Popovici@endava.com,Presenter,1:50:23,110.4
+Alexandru Panainte,2025-06-24 13:56:31,2025-06-24 15:32:38,1h 36m 7s,Alexandru.Panainte@endava.com,Alexandru.Panainte@endava.com,Presenter,1:36:07,96.1
+Andrei-Alexandru Midus,2025-06-24 13:56:33,2025-06-24 15:32:32,1h 35m 58s,Andrei-Alexandru.Midus@endava.com,Andrei-Alexandru.Midus@endava.com,Presenter,1:35:59,96.0
+George Eduard Achiriloaei,2025-06-24 13:56:37,2025-06-24 15:22:35,1h 25m 58s,George-Eduard.Achiriloaei@endava.com,George-Eduard.Achiriloaei@endava.com,Presenter,1:25:58,86.0
+Ariana Casandra Olaru,2025-06-24 13:56:47,2025-06-24 15:32:27,1h 35m 39s,Ariana-Casandra.Olaru@endava.com,Ariana-Casandra.Olaru@endava.com,Presenter,1:35:40,95.7
+Raul Gabriel Chiorean,2025-06-24 13:56:49,2025-06-24 15:32:33,1h 35m 43s,Raul-Gabriel.Chiorean@endava.com,Raul-Gabriel.Chiorean@endava.com,Presenter,1:35:44,95.7
+Daniel-Ionel Beg,2025-06-24 13:56:51,2025-06-24 15:23:49,1h 26m 58s,Daniel-Ionel.Beg@endava.com,Daniel-Ionel.Beg@endava.com,Presenter,1:26:58,87.0
+Vlad Cojocaru,2025-06-24 13:56:54,2025-06-24 15:32:34,1h 35m 40s,Vlad.Cojocaru@endava.com,Vlad.Cojocaru@endava.com,Presenter,1:35:40,95.7
+Vlad Cristian Brinzas,2025-06-24 13:56:56,2025-06-24 15:32:33,1h 35m 37s,Vlad-Cristian.Brinzas@endava.com,Vlad-Cristian.Brinzas@endava.com,Presenter,1:35:37,95.6
+Octavian Cojocariu,2025-06-24 13:56:57,2025-06-24 15:34:40,1h 35m 39s,Octavian.Cojocariu@endava.com,Octavian.Cojocariu@endava.com,Presenter,1:37:43,97.7
+Rodica Elena Rosca,2025-06-24 13:56:58,2025-06-24 15:32:32,1h 35m 33s,Rodica-Elena.Rosca@endava.com,Rodica-Elena.Rosca@endava.com,Presenter,1:35:34,95.6
+Andreea-Raluca Neagu,2025-06-24 13:57:06,2025-06-24 15:32:34,1h 35m 28s,Andreea-Raluca.Neagu@endava.com,Andreea-Raluca.Neagu@endava.com,Presenter,1:35:28,95.5
+Sergiu Ungureanu,2025-06-24 13:57:10,2025-06-24 15:32:30,1h 35m 20s,Sergiu.Ungureanu2@endava.com,Sergiu.Ungureanu2@endava.com,Presenter,1:35:20,95.3
+Darius-Cristian Gherle,2025-06-24 13:57:11,2025-06-24 15:24:05,1h 26m 53s,Darius-Cristian.Gherle@endava.com,Darius-Cristian.Gherle@endava.com,Presenter,1:26:54,86.9
+Anton Calin Stroia,2025-06-24 13:57:13,2025-06-24 15:29:54,1h 32m 41s,Anton-Calin.Stroia@endava.com,Anton-Calin.Stroia@endava.com,Presenter,1:32:41,92.7
+Darius Dinu,2025-06-24 13:57:13,2025-06-24 15:32:32,1h 35m 18s,Darius.Dinu@endava.com,Darius.Dinu@endava.com,Presenter,1:35:19,95.3
+Andrei George Avram,2025-06-24 13:57:18,2025-06-24 15:32:30,1h 35m 12s,Andrei-George.Avram@endava.com,Andrei-George.Avram@endava.com,Presenter,1:35:12,95.2
+Iuliana Raluca Butnariu,2025-06-24 13:57:18,2025-06-24 15:22:29,1h 25m 11s,Iuliana-Raluca.Butnariu@endava.com,Iuliana-Raluca.Butnariu@endava.com,Presenter,1:25:11,85.2
+Denis-Mihai Mateas,2025-06-24 13:57:21,2025-06-24 15:32:29,1h 35m 7s,Denis-Mihai.Mateas@endava.com,Denis-Mihai.Mateas@endava.com,Presenter,1:35:08,95.1
+George Andrei Necula,2025-06-24 13:57:21,2025-06-24 15:32:33,1h 35m 11s,George-Andrei.Necula@endava.com,George-Andrei.Necula@endava.com,Presenter,1:35:12,95.2
+Daniela Maria Pascan,2025-06-24 13:57:21,2025-06-24 15:32:32,1h 35m 10s,Daniela-Maria.Pascan@endava.com,Daniela-Maria.Pascan@endava.com,Presenter,1:35:11,95.2
+Rares Stefan Cazan,2025-06-24 13:57:22,2025-06-24 15:32:58,1h 35m 35s,Rares-Stefan.Cazan@endava.com,Rares-Stefan.Cazan@endava.com,Presenter,1:35:36,95.6
+Teodor Leahu,2025-06-24 13:57:22,2025-06-24 15:08:40,1h 11m 17s,Teodor.Leahu@endava.com,Teodor.Leahu@endava.com,Presenter,1:11:18,71.3
+Denisa Maria Gorea,2025-06-24 13:57:27,2025-06-24 15:14:17,1h 6m 42s,Denisa-Maria.Gorea@endava.com,Denisa-Maria.Gorea@endava.com,Presenter,1:16:50,76.8
+Virgil Cimpean,2025-06-24 13:57:29,2025-06-24 15:32:31,1h 35m 2s,Virgil.Cimpean@endava.com,Virgil.Cimpean@endava.com,Presenter,1:35:02,95.0
+Mihnea-Alexandru Pele,2025-06-24 13:57:32,2025-06-24 15:08:58,1h 11m 26s,Mihnea-Alexandru.Pele@endava.com,Mihnea-Alexandru.Pele@endava.com,Presenter,1:11:26,71.4
+Manuel Lazar,2025-06-24 13:57:33,2025-06-24 15:23:24,1h 25m 51s,Manuel.Lazar@endava.com,Manuel.Lazar@endava.com,Presenter,1:25:51,85.8
+Andrei Alin Socoteala,2025-06-24 13:57:35,2025-06-24 15:32:29,1h 34m 54s,Andrei-Alin.Socoteala@endava.com,Andrei-Alin.Socoteala@endava.com,Presenter,1:34:54,94.9
+Robert Erno Eminovici,2025-06-24 13:57:37,2025-06-24 15:32:28,1h 34m 50s,Robert-Erno.Eminovici@endava.com,Robert-Erno.Eminovici@endava.com,Presenter,1:34:51,94.8
+Mihnea Daniel Popescu,2025-06-24 13:57:38,2025-06-24 15:22:59,1h 25m 20s,Mihnea-Daniel.Popescu@endava.com,Mihnea-Daniel.Popescu@endava.com,Presenter,1:25:21,85.4
+Iustin-Mihai Stanciu,2025-06-24 13:57:40,2025-06-24 15:32:36,1h 34m 55s,Iustin-Mihai.Stanciu@endava.com,Iustin-Mihai.Stanciu@endava.com,Presenter,1:34:56,94.9
+Stefan Daniel Ionita,2025-06-24 13:57:41,2025-06-24 15:32:36,1h 34m 54s,StefanDaniel.Ionita@endava.com,StefanDaniel.Ionita@endava.com,Presenter,1:34:55,94.9
+Flora Balogh,2025-06-24 13:57:41,2025-06-24 14:29:31,31m 50s,Flora.Balogh@endava.com,Flora.Balogh@endava.com,Presenter,0:31:50,31.8
+Adriana Maria Vadean,2025-06-24 13:57:43,2025-06-24 15:32:31,1h 34m 48s,Adriana-Maria.Vadean@endava.com,Adriana-Maria.Vadean@endava.com,Presenter,1:34:48,94.8
+Alexandru Cinipa,2025-06-24 13:57:51,2025-06-24 15:32:32,1h 34m 40s,Alexandru.Cinipa@endava.com,Alexandru.Cinipa@endava.com,Presenter,1:34:41,94.7
+Fabian Iordache,2025-06-24 13:57:53,2025-06-24 15:32:36,1h 34m 43s,Fabian.Iordache@endava.com,Fabian.Iordache@endava.com,Presenter,1:34:43,94.7
+Alexandru Mirea,2025-06-24 13:57:53,2025-06-24 15:32:30,1h 33m 35s,Alexandru.Mirea@endava.com,Alexandru.Mirea@endava.com,Presenter,1:34:37,94.6
+Robert Cristian,2025-06-24 13:58:01,2025-06-24 15:32:35,1h 34m 33s,Robert.Cristian@endava.com,Robert.Cristian@endava.com,Presenter,1:34:34,94.6
+Nicola-Diana Sincaru,2025-06-24 13:58:01,2025-06-24 15:32:32,1h 34m 31s,Nicola-Diana.Sincaru@endava.com,Nicola-Diana.Sincaru@endava.com,Presenter,1:34:31,94.5
+Andra-Maria Petcu,2025-06-24 13:58:02,2025-06-24 15:30:33,1h 32m 31s,Andra-Maria.Petcu@endava.com,Andra-Maria.Petcu@endava.com,Presenter,1:32:31,92.5
+Ioan Sebastian Muresan,2025-06-24 13:58:03,2025-06-24 15:32:35,1h 34m 31s,Ioan-Sebastian.Muresan@endava.com,Ioan-Sebastian.Muresan@endava.com,Presenter,1:34:32,94.5
+Ioan Agape,2025-06-24 13:58:03,2025-06-24 15:32:35,1h 34m 31s,Ioan.Agape@endava.com,Ioan.Agape@endava.com,Presenter,1:34:32,94.5
+Raluca Roiban,2025-06-24 13:58:09,2025-06-24 15:24:46,1h 26m 36s,Raluca.Roiban@endava.com,Raluca.Roiban@endava.com,Presenter,1:26:37,86.6
+Ana Ciobanu,2025-06-24 13:58:09,2025-06-24 15:32:35,1h 34m 25s,Ana.Ciobanu@endava.com,Ana.Ciobanu@endava.com,Presenter,1:34:26,94.4
+Alessia-Elena Rados,2025-06-24 13:58:15,2025-06-24 15:32:34,1h 34m 18s,Alessia-Elena.Rados@endava.com,Alessia-Elena.Rados@endava.com,Presenter,1:34:19,94.3
+Rares Ciprian Balan,2025-06-24 13:58:17,2025-06-24 15:22:57,1h 21m 58s,Rares-Ciprian.Balan@endava.com,Rares-Ciprian.Balan@endava.com,Presenter,1:24:40,84.7
+Lorena Maria Buzea,2025-06-24 13:58:19,2025-06-24 15:32:32,1h 34m 12s,Lorena-Maria.Buzea@endava.com,Lorena-Maria.Buzea@endava.com,Presenter,1:34:13,94.2
+Robert-Viorel Lazarov,2025-06-24 13:58:21,2025-06-24 15:29:52,1h 31m 30s,Robert-Viorel.Lazarov@endava.com,Robert-Viorel.Lazarov@endava.com,Presenter,1:31:31,91.5
+Luigi Emanuel Arama,2025-06-24 13:58:22,2025-06-24 15:32:32,1h 34m 10s,Luigi-Emanuel.Arama@endava.com,Luigi-Emanuel.Arama@endava.com,Presenter,1:34:10,94.2
+Alexandru Cristian Grajdeanu,2025-06-24 13:58:24,2025-06-24 15:32:28,1h 34m 4s,Alexandru-Cristian.Grajdeanu@endava.com,Alexandru-Cristian.Grajdeanu@endava.com,Presenter,1:34:04,94.1
+Mozes Csaszar,2025-06-24 13:58:24,2025-06-24 15:32:31,1h 34m 7s,Mozes.Csaszar@endava.com,Mozes.Csaszar@endava.com,Presenter,1:34:07,94.1
+Catalin George Adrian Otet,2025-06-24 13:58:26,2025-06-24 15:22:59,1h 24m 33s,Catalin-George-Adrian.Otet@endava.com,Catalin-George-Adrian.Otet@endava.com,Presenter,1:24:33,84.6
+Eduard Stefan Mariniuc,2025-06-24 13:58:26,2025-06-24 15:22:31,1h 24m 4s,Eduard-Stefan.Mariniuc@endava.com,Eduard-Stefan.Mariniuc@endava.com,Presenter,1:24:05,84.1
+Valentin Alexe,2025-06-24 13:58:27,2025-06-24 15:32:33,1h 34m 5s,Valentin.Alexe@endava.com,Valentin.Alexe@endava.com,Presenter,1:34:06,94.1
+Dragos Badarau,2025-06-24 13:58:28,2025-06-24 15:32:34,1h 34m 5s,Dragos.Badarau@endava.com,Dragos.Badarau@endava.com,Presenter,1:34:06,94.1
+Vasile Tudorel Arion,2025-06-24 13:58:30,2025-06-24 15:32:33,1h 34m 3s,Tudor.Arion@endava.com,Tudor.Arion@endava.com,Presenter,1:34:03,94.0
+Vasile Meghesan,2025-06-24 13:58:33,2025-06-24 15:32:30,1h 33m 57s,Vasile.Meghesan@endava.com,Vasile.Meghesan@endava.com,Presenter,1:33:57,94.0
+Rares Gabriel Margarint,2025-06-24 13:58:33,2025-06-24 15:32:21,1h 33m 48s,Rares-Gabriel.Margarint@endava.com,Rares-Gabriel.Margarint@endava.com,Presenter,1:33:48,93.8
+Cerasela Nicola Soare,2025-06-24 13:58:33,2025-06-24 15:46:13,1h 15m 34s,Cerasela-Nicola.Soare@endava.com,Cerasela-Nicola.Soare@endava.com,Presenter,1:47:40,107.7
+Vlad Andrei Groza,2025-06-24 13:58:34,2025-06-24 15:32:31,1h 33m 56s,Vlad-Andrei.Groza@endava.com,Vlad-Andrei.Groza@endava.com,Presenter,1:33:57,94.0
+Denis Ivan,2025-06-24 13:58:35,2025-06-24 15:32:35,1h 33m 59s,Denis.Ivan@endava.com,Denis.Ivan@endava.com,Presenter,1:34:00,94.0
+Felix Cosmin Orga,2025-06-24 13:58:37,2025-06-24 15:32:27,1h 33m 50s,Felix-Cosmin.Orga@endava.com,Felix-Cosmin.Orga@endava.com,Presenter,1:33:50,93.8
+Ionut Birsan,2025-06-24 13:58:37,2025-06-24 15:32:33,1h 33m 55s,Ionut.Birsan@endava.com,Ionut.Birsan@endava.com,Presenter,1:33:56,93.9
+Beniamin Cioban,2025-06-24 13:58:39,2025-06-24 15:32:31,1h 33m 51s,Beniamin.Cioban@endava.com,Beniamin.Cioban@endava.com,Presenter,1:33:52,93.9
+Radu Branici,2025-06-24 13:58:42,2025-06-24 15:32:39,1h 33m 56s,Radu.Branici@endava.com,Radu.Branici@endava.com,Presenter,1:33:57,94.0
+Stefan Cotos,2025-06-24 13:58:42,2025-06-24 15:32:30,1h 33m 47s,Stefan.Cotos@endava.com,Stefan.Cotos@endava.com,Presenter,1:33:48,93.8
+Vlad Marian Pitariu,2025-06-24 13:58:45,2025-06-24 15:18:38,1h 19m 53s,Vlad-Marian.Pitariu@endava.com,Vlad-Marian.Pitariu@endava.com,Presenter,1:19:53,79.9
+Celia Ciurchil-Giurgiu,2025-06-24 13:58:48,2025-06-24 15:32:33,1h 33m 45s,Celia.Ciurchil@endava.com,Celia.Ciurchil@endava.com,Presenter,1:33:45,93.8
+Andrei Bogdan Aluculesei,2025-06-24 13:58:48,2025-06-24 15:32:30,1h 33m 42s,Andrei-Bogdan.Aluculesei@endava.com,Andrei-Bogdan.Aluculesei@endava.com,Presenter,1:33:42,93.7
+Lucian Vatamanu,2025-06-24 13:58:48,2025-06-24 15:32:32,1h 33m 43s,Lucian.Vatamanu@endava.com,Lucian.Vatamanu@endava.com,Presenter,1:33:44,93.7
+Vlad-Stefan Sas,2025-06-24 13:58:48,2025-06-24 15:32:32,1h 33m 44s,Vlad-Stefan.Sas@endava.com,Vlad-Stefan.Sas@endava.com,Presenter,1:33:44,93.7
+Lavinia Avram,2025-06-24 13:58:49,2025-06-24 15:30:05,1h 31m 16s,Lavinia.Avram@endava.com,Lavinia.Avram@endava.com,Presenter,1:31:16,91.3
+Silviu Vasilica Luta,2025-06-24 13:58:49,2025-06-24 15:32:27,1h 33m 38s,Silviu-Vasilica.Luta@endava.com,Silviu-Vasilica.Luta@endava.com,Presenter,1:33:38,93.6
+Stefania Diana Stirbu,2025-06-24 13:58:52,2025-06-24 15:32:32,1h 33m 39s,Stefania-Diana.Stirbu@endava.com,Stefania-Diana.Stirbu@endava.com,Presenter,1:33:40,93.7
+Ionut Popescu,2025-06-24 13:58:53,2025-06-24 15:27:12,1h 28m 18s,Ionut.Popescu@endava.com,Ionut.Popescu@endava.com,Presenter,1:28:19,88.3
+Ionut Vlad Cira,2025-06-24 13:58:55,2025-06-24 15:32:34,1h 33m 39s,Ionut-Vlad.Cira@endava.com,Ionut-Vlad.Cira@endava.com,Presenter,1:33:39,93.6
+Robert Fedus,2025-06-24 13:58:55,2025-06-24 15:32:34,1h 33m 39s,Robert.Fedus@endava.com,Robert.Fedus@endava.com,Presenter,1:33:39,93.6
+George Nicolae Botos,2025-06-24 13:58:57,2025-06-24 15:23:22,1h 24m 25s,George-Nicolae.Botos@endava.com,George-Nicolae.Botos@endava.com,Presenter,1:24:25,84.4
+Emanuela Lupancu,2025-06-24 13:58:59,2025-06-24 15:32:32,1h 33m 32s,Emanuela.Lupancu@endava.com,Emanuela.Lupancu@endava.com,Presenter,1:33:33,93.6
+Andrei Titus Pavel,2025-06-24 13:58:59,2025-06-24 15:46:41,1h 47m 41s,andrei-titus.pavel@endava.com,andrei-titus.pavel@endava.com,Presenter,1:47:42,107.7
+Alexandru Baba,2025-06-24 13:59:01,2025-06-24 15:40:49,1h 33m 34s,Alexandru.Baba@endava.com,Alexandru.Baba@endava.com,Presenter,1:41:48,101.8
+Gabriela Casandra Pitu,2025-06-24 13:59:01,2025-06-24 15:32:33,1h 33m 32s,Gabriela-Casandra.Pitu@endava.com,Gabriela-Casandra.Pitu@endava.com,Presenter,1:33:32,93.5
+Tudor Mihai Iakkel,2025-06-24 13:59:01,2025-06-24 15:32:30,1h 33m 29s,Tudor-Mihai.Iakkel@endava.com,Tudor-Mihai.Iakkel@endava.com,Presenter,1:33:29,93.5
+Constantin Bogdan Moga,2025-06-24 13:59:02,2025-06-24 15:32:28,1h 33m 26s,Constantin-Bogdan.Moga@endava.com,Constantin-Bogdan.Moga@endava.com,Presenter,1:33:26,93.4
+Dragos Vatra,2025-06-24 13:59:10,2025-06-24 15:23:54,1h 24m 43s,Dragos.Vatra@endava.com,Dragos.Vatra@endava.com,Presenter,1:24:44,84.7
+Cristian Valentin Alexa,2025-06-24 13:59:10,2025-06-24 15:32:34,1h 33m 23s,Cristian-Valentin.Alexa@endava.com,Cristian-Valentin.Alexa@endava.com,Presenter,1:33:24,93.4
+Iuliana Elena Rusu,2025-06-24 13:59:17,2025-06-24 15:32:30,1h 33m 13s,Iuliana-Elena.Rusu@endava.com,Iuliana-Elena.Rusu@endava.com,Presenter,1:33:13,93.2
+Robert Alexandru Badea,2025-06-24 13:59:18,2025-06-24 15:32:36,1h 33m 17s,Robert-Alexandru.Badea@endava.com,Robert-Alexandru.Badea@endava.com,Presenter,1:33:18,93.3
+Mihnea Amihailesei,2025-06-24 13:59:18,2025-06-24 15:23:54,1h 24m 35s,Mihnea.Amihailesei@endava.com,Mihnea.Amihailesei@endava.com,Presenter,1:24:36,84.6
+Teodor Badarcea,2025-06-24 13:59:20,2025-06-24 15:32:30,1h 33m 10s,Teodor.Badarcea@endava.com,Teodor.Badarcea@endava.com,Presenter,1:33:10,93.2
+Serafim Uliuliuc,2025-06-24 13:59:25,2025-06-24 15:32:27,1h 33m 2s,Serafim.Uliuliuc@endava.com,Serafim.Uliuliuc@endava.com,Presenter,1:33:02,93.0
+Ilinca Maria Popovici,2025-06-24 13:59:27,2025-06-24 15:32:32,1h 33m 4s,Ilinca-Maria.Popovici@endava.com,Ilinca-Maria.Popovici@endava.com,Presenter,1:33:05,93.1
+Alexandru Gabriel Cazan,2025-06-24 13:59:29,2025-06-24 15:32:30,1h 33m 1s,Alexandru.Cazan@endava.com,Alexandru.Cazan@endava.com,Presenter,1:33:01,93.0
+Patric Caliman,2025-06-24 13:59:29,2025-06-24 15:22:50,1h 23m 21s,Patric.Caliman@endava.com,Patric.Caliman@endava.com,Presenter,1:23:21,83.4
+Victor Valentin Vladulescu,2025-06-24 13:59:29,2025-06-24 14:58:51,59m 22s,Victor-Valentin.Vladulescu@endava.com,Victor-Valentin.Vladulescu@endava.com,Presenter,0:59:22,59.4
+Cornel Adrian Pop,2025-06-24 13:59:30,2025-06-24 15:32:31,1h 33m,Cornel-Adrian.Pop@endava.com,Cornel-Adrian.Pop@endava.com,Presenter,1:33:01,93.0
+Alexandru Serban,2025-06-24 13:59:35,2025-06-24 15:32:35,1h 33m,Alexandru.Serban2@endava.com,Alexandru.Serban2@endava.com,Presenter,1:33:00,93.0
+Andreea Maria Monete,2025-06-24 13:59:35,2025-06-24 14:58:30,58m 55s,Andreea-Maria.Monete@endava.com,Andreea-Maria.Monete@endava.com,Presenter,0:58:55,58.9
+George Patrasc,2025-06-24 13:59:35,2025-06-24 15:15:04,1h 11m 1s,George.Patrasc@endava.com,George.Patrasc@endava.com,Presenter,1:15:29,75.5
+Daniel Rosu,2025-06-24 13:59:36,2025-06-24 15:32:50,1h 31m 1s,Daniel.Rosu@endava.com,Daniel.Rosu@endava.com,Presenter,1:33:14,93.2
+Tudor Leonte,2025-06-24 13:59:36,2025-06-24 15:32:32,1h 32m 56s,Tudor.Leonte@endava.com,Tudor.Leonte@endava.com,Presenter,1:32:56,92.9
+Rares Dascalu,2025-06-24 13:59:37,2025-06-24 15:20:39,1h 21m 2s,Rares.Dascalu@endava.com,Rares.Dascalu@endava.com,Presenter,1:21:02,81.0
+Andrei Tudor Mirza,2025-06-24 13:59:37,2025-06-24 15:32:33,1h 32m 56s,Andrei-Tudor.Mirza@endava.com,Andrei-Tudor.Mirza@endava.com,Presenter,1:32:56,92.9
+Rares Alexandru Iancu,2025-06-24 13:59:37,2025-06-24 14:56:23,56m 46s,Rares-Alexandru.Iancu@endava.com,Rares-Alexandru.Iancu@endava.com,Presenter,0:56:46,56.8
+Laura Rusanescu,2025-06-24 13:59:38,2025-06-24 15:32:33,1h 32m 54s,Laura.Rusanescu@endava.com,Laura.Rusanescu@endava.com,Presenter,1:32:55,92.9
+Madalina Daiana Gligan,2025-06-24 13:59:39,2025-06-24 15:32:30,1h 32m 50s,Madalina-Daiana.Gligan@endava.com,Madalina-Daiana.Gligan@endava.com,Presenter,1:32:51,92.8
+Cezara Teofana Aprofirei,2025-06-24 13:59:44,2025-06-24 15:32:29,1h 32m 45s,Cezara-Teofana.Aprofirei@endava.com,Cezara-Teofana.Aprofirei@endava.com,Presenter,1:32:45,92.8
+Maria Mihaela Bradea,2025-06-24 13:59:44,2025-06-24 15:32:31,1h 32m 46s,Maria-Mihaela.Bradea@endava.com,Maria-Mihaela.Bradea@endava.com,Presenter,1:32:47,92.8
+Emma Simina Muresan,2025-06-24 13:59:45,2025-06-24 15:32:31,1h 32m 45s,Emma-Simina.Muresan@endava.com,Emma-Simina.Muresan@endava.com,Presenter,1:32:46,92.8
+Cornelia Cojocari,2025-06-24 13:59:47,2025-06-24 15:32:29,1h 32m 42s,Cornelia.Cojocari@endava.com,Cornelia.Cojocari@endava.com,Presenter,1:32:42,92.7
+Alexandru Zagan,2025-06-24 13:59:47,2025-06-24 15:32:41,1h 32m 54s,Alexandru.Zagan@endava.com,Alexandru.Zagan@endava.com,Presenter,1:32:54,92.9
+Matei Tatar,2025-06-24 13:59:49,2025-06-24 15:32:33,1h 32m 44s,Matei.Tatar@endava.com,Matei.Tatar@endava.com,Presenter,1:32:44,92.7
+Sabin Andrei Popa,2025-06-24 13:59:53,2025-06-24 14:57:10,57m 16s,Sabin-Andrei.Popa@endava.com,Sabin-Andrei.Popa@endava.com,Presenter,0:57:17,57.3
+Laura Andrada Ciobanu,2025-06-24 13:59:53,2025-06-24 15:32:33,1h 32m 39s,Laura-Andrada.Ciobanu@endava.com,Laura-Andrada.Ciobanu@endava.com,Presenter,1:32:40,92.7
+Darius Margarit,2025-06-24 13:59:55,2025-06-24 15:32:31,1h 32m 36s,Darius.Margarit@endava.com,Darius.Margarit@endava.com,Presenter,1:32:36,92.6
+Maria Iulia Zdrenghea,2025-06-24 13:59:56,2025-06-24 15:32:30,1h 32m 33s,Maria-Iulia.Zdrenghea@endava.com,Maria-Iulia.Zdrenghea@endava.com,Presenter,1:32:34,92.6
+George Iulian Stoian,2025-06-24 13:59:58,2025-06-24 15:32:33,1h 32m 34s,George-Iulian.Stoian@endava.com,George-Iulian.Stoian@endava.com,Presenter,1:32:35,92.6
+Irina Vasilita,2025-06-24 13:59:58,2025-06-24 15:32:33,1h 32m 35s,Irina.Vasilita@endava.com,Irina.Vasilita@endava.com,Presenter,1:32:35,92.6
+Adrian Visan,2025-06-24 14:00:02,2025-06-24 15:22:12,1h 22m 10s,Adrian.Visan@endava.com,Adrian.Visan@endava.com,Presenter,1:22:10,82.2
+Tudor Muntean,2025-06-24 14:00:02,2025-06-24 15:32:26,1h 32m 24s,Tudor.Muntean@endava.com,Tudor.Muntean@endava.com,Presenter,1:32:24,92.4
+Iulius Stefan Ambros,2025-06-24 14:00:04,2025-06-24 15:32:31,1h 32m 26s,Iulius-Stefan.Ambros@endava.com,Iulius-Stefan.Ambros@endava.com,Presenter,1:32:27,92.4
+Andrei Vataselu,2025-06-24 14:00:07,2025-06-24 15:32:33,1h 32m 25s,Andrei.Vataselu@endava.com,Andrei.Vataselu@endava.com,Presenter,1:32:26,92.4
+Alexandru Bardasu,2025-06-24 14:00:12,2025-06-24 15:32:33,1h 32m 20s,Alexandru.Bardasu@endava.com,Alexandru.Bardasu@endava.com,Presenter,1:32:21,92.4
+Andrei Apostol,2025-06-24 14:00:12,2025-06-24 15:22:52,1h 22m 40s,Andrei.Apostol@endava.com,Andrei.Apostol@endava.com,Presenter,1:22:40,82.7
+Cosmin Gabriel Mirea,2025-06-24 14:00:12,2025-06-24 15:32:33,1h 32m 20s,Cosmin-Gabriel.Mirea@endava.com,Cosmin-Gabriel.Mirea@endava.com,Presenter,1:32:21,92.4
+Bogdan Gargu,2025-06-24 14:00:12,2025-06-24 15:23:19,1h 23m 6s,Bogdan.Gargu@endava.com,Bogdan.Gargu@endava.com,Presenter,1:23:07,83.1
+Anca Elena Ilie,2025-06-24 14:00:17,2025-06-24 15:32:31,1h 32m 13s,Anca-Elena.Ilie@endava.com,Anca-Elena.Ilie@endava.com,Presenter,1:32:14,92.2
+David Serban,2025-06-24 14:00:17,2025-06-24 15:32:33,1h 32m 16s,David.Serban@endava.com,David.Serban@endava.com,Presenter,1:32:16,92.3
+Bianca Maria Lazar,2025-06-24 14:00:17,2025-06-24 14:52:38,52m 21s,Bianca-Maria.Lazar@endava.com,Bianca-Maria.Lazar@endava.com,Presenter,0:52:21,52.4
+Tiberiu Iatan,2025-06-24 14:00:20,2025-06-24 15:32:33,1h 32m 12s,Tiberiu.Iatan@endava.com,Tiberiu.Iatan@endava.com,Presenter,1:32:13,92.2
+Serban Marian Precup,2025-06-24 14:00:21,2025-06-24 15:07:06,1h 6m 44s,Serban-Marian.Precup@endava.com,Serban-Marian.Precup@endava.com,Presenter,1:06:45,66.8
+Costina Vanghele,2025-06-24 14:00:23,2025-06-24 15:32:30,1h 32m 6s,Costina.Vanghele@endava.com,Costina.Vanghele@endava.com,Presenter,1:32:07,92.1
+Matei Micu,2025-06-24 14:00:27,2025-06-24 15:23:48,1h 23m 21s,Matei-Mihai.Micu@endava.com,Matei-Mihai.Micu@endava.com,Presenter,1:23:21,83.4
+Alexandru Duta,2025-06-24 14:00:27,2025-06-24 15:32:30,1h 32m 3s,Alexandru.Duta2@endava.com,Alexandru.Duta2@endava.com,Presenter,1:32:03,92.0
+Adrian Vasile Vladescu,2025-06-24 14:00:28,2025-06-24 15:32:33,1h 32m 4s,Adrian-Vasile.Vladescu@endava.com,Adrian-Vasile.Vladescu@endava.com,Presenter,1:32:05,92.1
+Bogdan Cristian Marcu,2025-06-24 14:00:28,2025-06-24 15:34:24,1h 33m 55s,Bogdan-Cristian.Marcu@endava.com,Bogdan-Cristian.Marcu@endava.com,Presenter,1:33:56,93.9
+Madalina Birtu,2025-06-24 14:00:34,2025-06-24 15:23:20,1h 22m 46s,Madalina.Birtu@endava.com,Madalina.Birtu@endava.com,Presenter,1:22:46,82.8
+Denisa Ibanescu,2025-06-24 14:00:34,2025-06-24 15:32:30,1h 31m 56s,Denisa.Ibanescu@endava.com,Denisa.Ibanescu@endava.com,Presenter,1:31:56,91.9
+Sebastian Popa,2025-06-24 14:00:35,2025-06-24 15:22:21,1h 21m 46s,Sebastian.Popa2@endava.com,Sebastian.Popa2@endava.com,Presenter,1:21:46,81.8
+Daniela Munteanu,2025-06-24 14:00:36,2025-06-24 15:32:32,1h 31m 55s,Daniela.Munteanu@endava.com,Daniela.Munteanu@endava.com,Presenter,1:31:56,91.9
+Nicolae Vasile Veciunca,2025-06-24 14:00:38,2025-06-24 15:32:35,1h 31m 57s,Nicolae-Vasile.Veciunca@endava.com,Nicolae-Vasile.Veciunca@endava.com,Presenter,1:31:57,92.0
+Catalin Festeu,2025-06-24 14:00:39,2025-06-24 15:32:32,1h 28m 28s,Catalin.Festeu@endava.com,Catalin.Festeu@endava.com,Presenter,1:31:53,91.9
+Tudor Gabriel Pascaru,2025-06-24 14:00:39,2025-06-24 15:32:33,1h 31m 53s,Tudor-Gabriel.Pascaru@endava.com,Tudor-Gabriel.Pascaru@endava.com,Presenter,1:31:54,91.9
+Cosmin Gabriel Petriuc,2025-06-24 14:00:41,2025-06-24 14:59:07,58m 26s,Cosmin-Gabriel.Petriuc@endava.com,Cosmin-Gabriel.Petriuc@endava.com,Presenter,0:58:26,58.4
+Mirela-Magdalena Catrina,2025-06-24 14:00:45,2025-06-24 15:32:30,1h 31m 44s,Mirela-Magdalena.Catrina@endava.com,Mirela-Magdalena.Catrina@endava.com,Presenter,1:31:45,91.8
+Adelina Patlatii,2025-06-24 14:00:47,2025-06-24 15:31:32,1h 30m 45s,Adelina.Patlatii@endava.com,Adelina.Patlatii@endava.com,Presenter,1:30:45,90.8
+Denis-Alexandru Antonescu,2025-06-24 14:00:48,2025-06-24 15:08:02,1h 7m 13s,Denis-Alexandru.Antonescu@endava.com,Denis-Alexandru.Antonescu@endava.com,Presenter,1:07:14,67.2
+Rafael Andries,2025-06-24 14:00:51,2025-06-24 15:32:30,1h 24m 59s,Rafael.Andries@endava.com,Rafael.Andries@endava.com,Presenter,1:31:39,91.6
+Mihaly Richard Teutsch,2025-06-24 14:00:53,2025-06-24 15:32:35,1h 31m 41s,Mihaly-Richard.Teutsch@endava.com,Mihaly-Richard.Teutsch@endava.com,Presenter,1:31:42,91.7
+Alexandru Edves,2025-06-24 14:00:54,2025-06-24 15:24:00,1h 23m 5s,Alexandru.Edves@endava.com,Alexandru.Edves@endava.com,Presenter,1:23:06,83.1
+Ruben Daniel Pasca,2025-06-24 14:00:59,2025-06-24 15:32:28,1h 31m 29s,Ruben-Daniel.Pasca@endava.com,Ruben-Daniel.Pasca@endava.com,Presenter,1:31:29,91.5
+Robert Catalin Franciuc,2025-06-24 14:00:59,2025-06-24 15:32:27,1h 31m 28s,Robert-Catalin.Franciuc@endava.com,Robert-Catalin.Franciuc@endava.com,Presenter,1:31:28,91.5
+Botond Ors Solyom,2025-06-24 14:00:59,2025-06-24 15:32:34,1h 31m 34s,Botond-Ors.Solyom@endava.com,Botond-Ors.Solyom@endava.com,Presenter,1:31:35,91.6
+Stefan-Daniel Ochian,2025-06-24 14:00:59,2025-06-24 15:23:06,1h 22m 6s,Stefan-Daniel.Ochian@endava.com,Stefan-Daniel.Ochian@endava.com,Presenter,1:22:07,82.1
+Rita Timea Torok,2025-06-24 14:01:00,2025-06-24 15:23:54,1h 22m 54s,Rita-Timea.Torok@endava.com,Rita-Timea.Torok@endava.com,Presenter,1:22:54,82.9
+Gabriela-Sidonia Ciontolac,2025-06-24 14:01:01,2025-06-24 15:45:35,1h 31m 33s,Gabriela-Sidonia.Ciontolac@endava.com,Gabriela-Sidonia.Ciontolac@endava.com,Presenter,1:44:34,104.6
+Alexandru Alin Potanga,2025-06-24 14:01:02,2025-06-24 15:32:31,1h 31m 29s,Alexandru-Alin.Potanga@endava.com,Alexandru-Alin.Potanga@endava.com,Presenter,1:31:29,91.5
+Diana Cristina Mocan,2025-06-24 14:01:05,2025-06-24 15:19:37,1h 18m 32s,Diana-Cristina.Mocan@endava.com,Diana-Cristina.Mocan@endava.com,Presenter,1:18:32,78.5
+Stefan-Claudiu Bulintis,2025-06-24 14:01:07,2025-06-24 15:27:51,1h 26m 44s,Stefan-Claudiu.Bulintis@endava.com,Stefan-Claudiu.Bulintis@endava.com,Presenter,1:26:44,86.7
+Octavian Paul Ilies,2025-06-24 14:01:10,2025-06-24 15:32:31,1h 31m 20s,Octavian-Paul.Ilies@endava.com,Octavian-Paul.Ilies@endava.com,Presenter,1:31:21,91.4
+Razvan Azoitei,2025-06-24 14:01:17,2025-06-24 15:17:50,1h 13m 38s,Razvan.Azoitei@endava.com,Razvan.Azoitei@endava.com,Presenter,1:16:33,76.6
+Csilla Boglarka Nagy,2025-06-24 14:01:19,2025-06-24 15:32:32,1h 31m 12s,Csilla-Boglarka.Nagy@endava.com,Csilla-Boglarka.Nagy@endava.com,Presenter,1:31:13,91.2
+Cosmin Felecanu,2025-06-24 14:01:21,2025-06-24 15:23:42,1h 22m 21s,Cosmin.Felecanu@endava.com,Cosmin.Felecanu@endava.com,Presenter,1:22:21,82.4
+Tiberiu Rabi,2025-06-24 14:01:22,2025-06-24 15:22:36,1h 21m 14s,Tiberiu.Rabi@endava.com,Tiberiu.Rabi@endava.com,Presenter,1:21:14,81.2
+Mihai Maciuc,2025-06-24 14:01:25,2025-06-24 15:32:30,1h 31m 5s,Mihai.Maciuc@endava.com,Mihai.Maciuc@endava.com,Presenter,1:31:05,91.1
+Alexandru Pestritu,2025-06-24 14:01:26,2025-06-24 15:32:31,1h 31m 4s,Alexandru.Pestritu@endava.com,Alexandru.Pestritu@endava.com,Presenter,1:31:05,91.1
+Anca Vasilica Iacob,2025-06-24 14:01:29,2025-06-24 15:32:35,1h 31m 5s,Anca-Vasilica.Iacob@endava.com,Anca-Vasilica.Iacob@endava.com,Presenter,1:31:06,91.1
+Raluca Elisa Butiurca,2025-06-24 14:01:31,2025-06-24 15:32:30,1h 30m 59s,Raluca-Elisa.Butiurca@endava.com,Raluca-Elisa.Butiurca@endava.com,Presenter,1:30:59,91.0
+Dragos Alexandru Ion,2025-06-24 14:01:33,2025-06-24 15:32:31,1h 30m 58s,Dragos-Alexandru.Ion@endava.com,Dragos-Alexandru.Ion@endava.com,Presenter,1:30:58,91.0
+Ioana Alexa,2025-06-24 14:01:38,2025-06-24 15:23:34,1h 21m 56s,Ioana.Alexa@endava.com,Ioana.Alexa@endava.com,Presenter,1:21:56,81.9
+Mihai Alexandru Militaru,2025-06-24 14:01:40,2025-06-24 15:13:30,47m 16s,Mihai-Alexandru.Militaru@endava.com,Mihai-Alexandru.Militaru@endava.com,Presenter,1:11:50,71.8
+Alexandru Tarcan,2025-06-24 14:01:46,2025-06-24 15:32:29,1h 30m 42s,Alexandru.Tarcan@endava.com,Alexandru.Tarcan@endava.com,Presenter,1:30:43,90.7
+Sebastian Ionel Filipovici,2025-06-24 14:01:47,2025-06-24 15:32:31,1h 30m 43s,Sebastian-Ionel.Filipovici@endava.com,Sebastian-Ionel.Filipovici@endava.com,Presenter,1:30:44,90.7
+Filip Craciun,2025-06-24 14:01:47,2025-06-24 15:22:56,1h 21m 8s,Filip.Craciun@endava.com,Filip.Craciun@endava.com,Presenter,1:21:09,81.2
+Daniel Kewin Chifa,2025-06-24 14:01:49,2025-06-24 15:32:30,1h 30m 41s,Daniel-Kewin.Chifa@endava.com,Daniel-Kewin.Chifa@endava.com,Presenter,1:30:41,90.7
+Andreea Marina Son,2025-06-24 14:01:55,2025-06-24 15:32:30,1h 30m 35s,Andreea-Marina.Son@endava.com,Andreea-Marina.Son@endava.com,Presenter,1:30:35,90.6
+Huba Nemet,2025-06-24 14:02:02,2025-06-24 15:32:31,1h 30m 29s,Huba.Nemet@endava.com,Huba.Nemet@endava.com,Presenter,1:30:29,90.5
+Radu Ioan Stoica,2025-06-24 14:02:12,2025-06-24 14:31:59,29m 47s,Radu-Ioan.Stoica@endava.com,Radu-Ioan.Stoica@endava.com,Presenter,0:29:47,29.8
+Cosmin Carp,2025-06-24 14:02:15,2025-06-24 15:32:30,1h 30m 14s,Cosmin.Carp@endava.com,Cosmin.Carp@endava.com,Presenter,1:30:15,90.2
+Laszlo Carlos Fodor,2025-06-24 14:02:24,2025-06-24 15:22:17,1h 19m 53s,Laszlo-Carlos.Fodor@endava.com,Laszlo-Carlos.Fodor@endava.com,Presenter,1:19:53,79.9
+Stefan Nicolae Gheorghiu,2025-06-24 14:03:05,2025-06-24 15:32:31,1h 29m 26s,Stefan-Nicolae.Gheorghiu@endava.com,Stefan-Nicolae.Gheorghiu@endava.com,Presenter,1:29:26,89.4
+Aron Domokos Telegdy,2025-06-24 14:03:08,2025-06-24 15:33:09,1h 30m 1s,Aron.Telegdy@endava.com,Aron.Telegdy@endava.com,Presenter,1:30:01,90.0
+Alin Avram,2025-06-24 14:03:17,2025-06-24 15:13:27,1h 10m 10s,Alin.Avram@endava.com,Alin.Avram@endava.com,Presenter,1:10:10,70.2
+Maria Camelia Raicu,2025-06-24 14:03:46,2025-06-24 15:32:35,1h 28m 49s,Maria-Camelia.Raicu@endava.com,Maria-Camelia.Raicu@endava.com,Presenter,1:28:49,88.8
+Andreea Gabriela Pop,2025-06-24 14:04:41,2025-06-24 15:32:33,1h 27m 52s,Andreea-Gabriela.Pop@endava.com,Andreea-Gabriela.Pop@endava.com,Presenter,1:27:52,87.9
+Laurentiu Fratila,2025-06-24 14:05:28,2025-06-24 15:32:21,1h 16m 5s,Laurentiu.Fratila@endava.com,Laurentiu.Fratila@endava.com,Presenter,1:26:53,86.9
+Maria-Ioana Fuerea,2025-06-24 14:06:06,2025-06-24 15:23:38,1h 16m 19s,Maria-Ioana.Fuerea@endava.com,Maria-Ioana.Fuerea@endava.com,Presenter,1:17:32,77.5
+Zoltan Balint,2025-06-24 14:06:32,2025-06-24 15:32:30,1h 25m 57s,Zoltan.Balint2@endava.com,Zoltan.Balint2@endava.com,Presenter,1:25:58,86.0
+Alin Constantin Florescu,2025-06-24 14:07:01,2025-06-24 15:32:36,1h 25m 35s,Alin-Constantin.Florescu@endava.com,Alin-Constantin.Florescu@endava.com,Presenter,1:25:35,85.6
+Raul Birsan,2025-06-24 14:08:59,2025-06-24 15:32:33,1h 23m 34s,Raul.Birsan@endava.com,Raul.Birsan@endava.com,Presenter,1:23:34,83.6
+Angel David Palihovici,2025-06-24 14:09:49,2025-06-24 15:32:25,1h 22m 36s,Angel-David.Palihovici@endava.com,Angel-David.Palihovici@endava.com,Presenter,1:22:36,82.6
+Ciprian Serbu,2025-06-24 14:11:01,2025-06-24 14:32:49,21m 48s,Ciprian.Serbu@endava.com,Ciprian.Serbu@endava.com,Presenter,0:21:48,21.8
+Rares Agachi,2025-06-24 14:21:36,2025-06-24 15:25:57,1h 4m 20s,Rares.Agachi@endava.com,Rares.Agachi@endava.com,Presenter,1:04:21,64.4
+Bianca Popescu,2025-06-24 14:21:39,2025-06-24 15:23:48,1h 2m 9s,Bianca.Popescu@endava.com,Bianca.Popescu@endava.com,Presenter,1:02:09,62.2
+Marius Beschieru,2025-06-24 14:23:24,2025-06-24 15:32:37,1h 9m 13s,Marius.Beschieru@endava.com,Marius.Beschieru@endava.com,Presenter,1:09:13,69.2
+Noemi Szidonia Szilagyi,2025-06-24 15:12:14,2025-06-24 15:32:30,20m 16s,Noemi-Szidonia.Csegezi@endava.com,Noemi-Szidonia.Csegezi@endava.com,Presenter,0:20:16,20.3
