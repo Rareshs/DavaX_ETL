@@ -305,4 +305,4 @@ SELECT
     SUM(days_worked) AS total_days_worked
 FROM fact_timesheet
 GROUP BY employee_id, employee_name, week_number
-ORDER BY employee_id, week_number;
+ORDER BY employee_id, week_number; 
