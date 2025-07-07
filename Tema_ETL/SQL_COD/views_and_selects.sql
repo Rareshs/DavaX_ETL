@@ -77,6 +77,56 @@ FROM confluence_absence ca
 JOIN davax_employees de
     ON LOWER(TRIM(ca.name)) = LOWER(TRIM(de.name));
 
+-- View pentru proiecte
+CREATE OR REPLACE VIEW dim_project AS
+SELECT 
+    project_id,
+    description
+FROM project;
+ 
+-- View pentru task-uri
+CREATE OR REPLACE VIEW dim_task AS
+SELECT 
+    task_id,
+    description
+FROM ETL.TASK;
+ 
+-- View pentru date calendaristice (poți adapta sau extinde după nevoie)
+CREATE OR REPLACE VIEW dim_date AS
+SELECT
+    to_date_date AS date_value,
+    EXTRACT(YEAR FROM to_date_date) AS year,
+    EXTRACT(MONTH FROM to_date_date) AS month,
+    EXTRACT(DAY FROM to_date_date) AS day,
+    TO_CHAR(to_date_date, 'DAY') AS day_name,
+    TO_CHAR(to_date_date, 'IW') AS week_number
+FROM (
+    SELECT TRUNC(created_at) AS to_date_date FROM ETL.TIMESHEET GROUP BY TRUNC(created_at)
+);
+ 
+-- ================================================
+-- VIEW TIMESHEET (fact table)
+-- ================================================
+CREATE OR REPLACE VIEW fact_timesheet AS
+SELECT 
+    ts.employee_id,
+    e.name AS employee_name,
+    ts.project_id,
+    p.description,
+    ts.task_id,
+    t.description AS task_description,
+    ts.location,
+    ts.work_type,
+    ts.created_at,
+    ts.start_date,
+    ts.end_date,
+    ts.week_number,
+    (ts.end_date - ts.start_date + 1) AS days_worked
+FROM ETL.TIMESHEET ts
+JOIN dim_employee e ON ts.employee_id = e.employee_id
+JOIN dim_project p ON ts.project_id = p.project_id
+JOIN dim_task t ON ts.task_id = t.task_id;
+
 
 -- =============================================
 -- RAPOARTE
@@ -194,3 +244,65 @@ FROM fact_attendance f
 JOIN dim_employee e ON e.employee_id = f.employee_id
 JOIN dim_session_discipline s ON s.session_id = f.session_id
 GROUP BY e.name;
+
+--  Total zile lucrate pe angajat
+SELECT
+    employee_id,
+    employee_name,
+    SUM(days_worked) AS total_days_worked
+FROM fact_timesheet
+GROUP BY employee_id, employee_name
+ORDER BY employee_id;
+ 
+-- Total zile lucrate pe proiect și angajat
+SELECT
+    employee_id,
+    employee_name,
+    project_id,
+    description,
+    SUM(days_worked) AS total_days_worked
+FROM fact_timesheet
+GROUP BY employee_id, employee_name, project_id, description
+ORDER BY employee_id, project_id;
+ 
+-- Total zile lucrate pe task și angajat
+SELECT
+    employee_id,
+    employee_name,
+    task_id,
+    task_description,
+    SUM(days_worked) AS total_days_worked
+FROM fact_timesheet
+GROUP BY employee_id, employee_name, task_id, task_description
+ORDER BY employee_id, task_id;
+ 
+-- Distribuția zilelor lucrate pe tipul de lucru (work_type) pe angajat
+SELECT
+    employee_id,
+    employee_name,
+    work_type,
+    SUM(days_worked) AS total_days_worked
+FROM fact_timesheet
+GROUP BY employee_id, employee_name, work_type
+ORDER BY employee_id, work_type;
+ 
+-- Ore / zile lucrate în funcție de locație
+SELECT
+    employee_id,
+    employee_name,
+    location,
+    SUM(days_worked) AS total_days_worked
+FROM fact_timesheet
+GROUP BY employee_id, employee_name, location
+ORDER BY employee_id, location;
+ 
+ 
+--  Total zile lucrate pe săptămâni per angajat
+SELECT
+    employee_id,
+    employee_name,
+    week_number,
+    SUM(days_worked) AS total_days_worked
+FROM fact_timesheet
+GROUP BY employee_id, employee_name, week_number
+ORDER BY employee_id, week_number; 
