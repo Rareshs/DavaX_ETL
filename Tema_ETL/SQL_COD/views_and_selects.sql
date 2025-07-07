@@ -121,7 +121,7 @@ SELECT
     ts.start_date,
     ts.end_date,
     ts.week_number,
-    (ts.end_date - ts.start_date + 1) AS days_worked
+    (ts.end_date - ts.start_date) * 24 AS hours_worked
 FROM ETL.TIMESHEET ts
 JOIN dim_employee e ON ts.employee_id = e.employee_id
 JOIN dim_project p ON ts.project_id = p.project_id
@@ -305,4 +305,65 @@ SELECT
     SUM(days_worked) AS total_days_worked
 FROM fact_timesheet
 GROUP BY employee_id, employee_name, week_number
-ORDER BY employee_id, week_number; 
+ORDER BY employee_id, week_number;
+
+-- Total ore lucrate pe angajat
+SELECT
+    employee_id,
+    employee_name,
+    SUM(hours_worked) AS total_hours_worked
+FROM fact_timesheet
+GROUP BY employee_id, employee_name
+ORDER BY employee_id;
+ 
+-- Total ore lucrate pe proiect și angajat
+SELECT
+    employee_id,
+    employee_name,
+    project_id,
+    description,
+    SUM(hours_worked) AS total_hours_worked
+FROM fact_timesheet
+GROUP BY employee_id, employee_name, project_id, description
+ORDER BY employee_id, project_id;
+ 
+-- Total ore lucrate pe task și angajat
+SELECT
+    employee_id,
+    employee_name,
+    task_id,
+    task_description,
+    SUM(hours_worked) AS total_hours_worked
+FROM fact_timesheet
+GROUP BY employee_id, employee_name, task_id, task_description
+ORDER BY employee_id, task_id;
+ 
+-- Distribuția orelor lucrate pe tipul de lucru (work_type) pe angajat
+SELECT
+    employee_id,
+    employee_name,
+    work_type,
+    SUM(hours_worked) AS total_hours_worked
+FROM fact_timesheet
+GROUP BY employee_id, employee_name, work_type
+ORDER BY employee_id, work_type;
+ 
+-- Ore lucrate în funcție de locație
+SELECT
+    employee_id,
+    employee_name,
+    location,
+    SUM(hours_worked) AS total_hours_worked
+FROM fact_timesheet
+GROUP BY employee_id, employee_name, location
+ORDER BY employee_id, location;
+ 
+-- Total ore lucrate pe săptămâni per angajat
+SELECT
+    employee_id,
+    employee_name,
+    week_number,
+    SUM(hours_worked) AS total_hours_worked
+FROM fact_timesheet
+GROUP BY employee_id, employee_name, week_number
+ORDER BY employee_id, week_number;
