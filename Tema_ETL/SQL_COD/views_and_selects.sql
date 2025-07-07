@@ -165,12 +165,25 @@ SELECT
     d.name AS employee_name,
     d.coordinator_name,
     f.reason,
-    ROUND(SUM( 
-        (TO_DATE(f.edate || ' ' || f.ehour, 'DD-MON-YY HH24:MI:SS') -
-         TO_DATE(f.sdate || ' ' || f.shour, 'DD-MON-YY HH24:MI:SS')) * 24
+    ROUND(SUM(
+        CASE 
+            WHEN f.reason = 'ANNUAL LEAVE' THEN
+                (
+                    TO_DATE(TO_CHAR(f.edate, 'DD-MON-YYYY') || ' ' || f.ehour, 'DD-MON-YYYY HH24:MI:SS')
+                  - TO_DATE(TO_CHAR(f.sdate, 'DD-MON-YYYY') || ' ' || f.shour, 'DD-MON-YYYY HH24:MI:SS')
+                ) * 8
+            ELSE
+                (
+                    TO_DATE(TO_CHAR(f.edate, 'DD-MON-YYYY') || ' ' || f.ehour, 'DD-MON-YYYY HH24:MI:SS')
+                  - TO_DATE(TO_CHAR(f.sdate, 'DD-MON-YYYY') || ' ' || f.shour, 'DD-MON-YYYY HH24:MI:SS')
+                ) * 24
+        END
     ), 2) AS total_hours_absent
 FROM fact_absence_with_location f
 JOIN dim_employee d ON f.employee_id = d.employee_id
+WHERE f.shour IS NOT NULL AND f.ehour IS NOT NULL
+  AND REGEXP_LIKE(f.shour, '^\d{2}:\d{2}:\d{2}$')
+  AND REGEXP_LIKE(f.ehour, '^\d{2}:\d{2}:\d{2}$')
 GROUP BY f.employee_id, d.name, d.coordinator_name, f.reason
 ORDER BY f.employee_id, f.reason;
 
