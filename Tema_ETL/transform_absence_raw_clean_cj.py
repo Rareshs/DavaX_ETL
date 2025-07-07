@@ -32,6 +32,10 @@ df[['EDATE', 'EHOUR']] = df['EDTATE'].astype(str).str.extract(r'^\s*([0-9/]+)\s+
 df = df.rename(columns={'ATTENDEE': 'NAME', 'CATEGORY': 'REASON'})
 
 df['CITY'] = "Cluj"
+df['NAME'] = df['NAME'].astype(str)
+df['NAME'] = df['NAME'].str.split(';')
+df = df.explode('NAME')
+df['NAME'] = df['NAME'].str.strip()
 
 df = df[['NAME', 'REASON', 'SDATE', 'SHOUR', 'EDATE', 'EHOUR', 'CITY']]
 

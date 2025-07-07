@@ -29,9 +29,29 @@ df['CATEGORY'] = df['SUMMARY'].apply(map_reason)
 df[['SDATE', 'SHOUR']] = df['DTSTART'].astype(str).str.extract(r'^\s*([0-9/]+)\s+(.+)$')
 df[['EDATE', 'EHOUR']] = df['DTEND'].astype(str).str.extract(r'^\s*([0-9/]+)\s+(.+)$')
 
+# Conversie SHOUR și EHOUR în format 24h (fără AM/PM)
+def to_24h(time_str):
+    try:
+        return pd.to_datetime(time_str, format='%I:%M %p').strftime('%H:%M')
+    except:
+        try:
+            return pd.to_datetime(time_str, format='%I:%M:%S %p').strftime('%H:%M')
+        except:
+            try:
+                return pd.to_datetime(time_str).strftime('%H:%M')
+            except:
+                return time_str
+
+df['SHOUR'] = df['SHOUR'].apply(to_24h)
+df['EHOUR'] = df['EHOUR'].apply(to_24h)
+
 df = df.rename(columns={'ATTENDEE': 'NAME', 'CATEGORY': 'REASON'})
 
 df['CITY'] = "Bucuresti"
+df['NAME'] = df['NAME'].astype(str)
+df['NAME'] = df['NAME'].str.split(';')
+df = df.explode('NAME')
+df['NAME'] = df['NAME'].str.strip()
 
 df = df[['NAME', 'REASON', 'SDATE', 'SHOUR', 'EDATE', 'EHOUR', 'CITY']]
 

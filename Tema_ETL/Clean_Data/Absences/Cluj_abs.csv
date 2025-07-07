@@ -7,9 +7,11 @@ Andreea Gabriela Pop,EXAM,6/2/2025,13:30,6/2/2025,16:00,Cluj
 Alexandru Topan-Farcau,PROJECT,6/2/2025,16:00,6/2/2025,18:00,Cluj
 Lorena Maria Buzea,PROJECT,6/2/2025,17:00,6/2/2025,17:30,Cluj
 Emma Simina Muresan,FACULTY,6/2/2025,17:00,6/2/2025,20:00,Cluj
-Robert Erno Eminovici; Petru Adelin Cojocaru,EXAM,6/3/2025,8:30,6/3/2025,10:00,Cluj
+Robert Erno Eminovici,EXAM,6/3/2025,8:30,6/3/2025,10:00,Cluj
+Petru Adelin Cojocaru,EXAM,6/3/2025,8:30,6/3/2025,10:00,Cluj
 Cristian Valentin Alexa,PROJECT,6/3/2025,9:00,6/3/2025,10:15,Cluj
-Lorena Maria Buzea; Ioan Sebastian Muresan,FACULTY,6/3/2025,10:00,6/3/2025,12:00,Cluj
+Lorena Maria Buzea,FACULTY,6/3/2025,10:00,6/3/2025,12:00,Cluj
+Ioan Sebastian Muresan,FACULTY,6/3/2025,10:00,6/3/2025,12:00,Cluj
 Cosmin Gabriel Petriuc,EXAM,6/3/2025,10:00,6/3/2025,12:00,Cluj
 Eric Marian Dascalu,EXAM,6/3/2025,10:30,6/3/2025,12:30,Cluj
 Paul Valentin Vela,EXAM,6/3/2025,12:30,6/3/2025,14:30,Cluj
@@ -28,19 +30,24 @@ Vlad Ioan Durdeu,EXAM,6/4/2025,9:30,6/4/2025,11:30,Cluj
 Ioana Botezatu,EXAM,6/4/2025,10:00,6/4/2025,12:00,Cluj
 Robert Erno Eminovici,EXAM,6/4/2025,14:00,6/4/2025,16:00,Cluj
 Andreea Gabriela Pop,FACULTY,6/4/2025,14:00,6/4/2025,16:00,Cluj
-Augustin Dumitru Sasu; Mircea Stefan Pop,EXAM,6/4/2025,16:00,6/4/2025,18:00,Cluj
+Augustin Dumitru Sasu,EXAM,6/4/2025,16:00,6/4/2025,18:00,Cluj
+Mircea Stefan Pop,EXAM,6/4/2025,16:00,6/4/2025,18:00,Cluj
 Lorena Maria Buzea,PROJECT,6/4/2025,16:00,6/4/2025,18:00,Cluj
 Andrei Tudor Mirza,EXAM,6/4/2025,16:00,6/4/2025,18:00,Cluj
 Ana Stefania Serbanoiu,PROJECT,6/4/2025,16:00,6/4/2025,18:00,Cluj
-Alexandra Elena Pitaru; Mariana Ionela Muntian,EXAM,6/4/2025,16:00,6/4/2025,18:00,Cluj
+Alexandra Elena Pitaru,EXAM,6/4/2025,16:00,6/4/2025,18:00,Cluj
+Mariana Ionela Muntian,EXAM,6/4/2025,16:00,6/4/2025,18:00,Cluj
 Tudor Mihai Iakkel,PROJECT,6/4/2025,16:00,6/4/2025,18:00,Cluj
 Maria Mihaela Bradea,PROJECT,6/4/2025,16:00,6/4/2025,18:00,Cluj
 Emma Simina Muresan,FACULTY,6/4/2025,17:00,6/4/2025,20:00,Cluj
 Gabriel Alexandru Nedelcu,EXAM,6/4/2025,18:00,6/4/2025,20:00,Cluj
 Emma Simina Muresan,FACULTY,6/4/2025,21:30,6/5/2025,0:30,Cluj
 Radu Ioan Maris,EXAM,6/5/2025,7:00,6/5/2025,9:00,Cluj
-Lorena Maria Buzea; Alexandra Elena Pitaru; Mariana Ionela Muntian,EXAM,6/5/2025,8:00,6/5/2025,10:00,Cluj
-Lorena Maria Buzea; Alexandra Elena Pitaru,EXAM,6/5/2025,10:00,6/5/2025,12:00,Cluj
+Lorena Maria Buzea,EXAM,6/5/2025,8:00,6/5/2025,10:00,Cluj
+Alexandra Elena Pitaru,EXAM,6/5/2025,8:00,6/5/2025,10:00,Cluj
+Mariana Ionela Muntian,EXAM,6/5/2025,8:00,6/5/2025,10:00,Cluj
+Lorena Maria Buzea,EXAM,6/5/2025,10:00,6/5/2025,12:00,Cluj
+Alexandra Elena Pitaru,EXAM,6/5/2025,10:00,6/5/2025,12:00,Cluj
 Eric Marian Dascalu,PROJECT,6/5/2025,10:00,6/5/2025,10:45,Cluj
 Darius Fratila,PROJECT,6/5/2025,13:00,6/5/2025,16:00,Cluj
 Bianca Anamaria Chiorean,PROJECT,6/5/2025,15:30,6/5/2025,20:00,Cluj
@@ -55,7 +62,9 @@ Maria Iulia Zdrenghea,FACULTY,6/6/2025,9:00,6/6/2025,12:00,Cluj
 Paul Valentin Vela,EXAM,6/6/2025,9:00,6/6/2025,12:00,Cluj
 Raul Birsan,EXAM,6/6/2025,10:00,6/6/2025,12:00,Cluj
 Eric Marian Dascalu,EXAM,6/6/2025,10:00,6/6/2025,12:00,Cluj
-Lorena Maria Buzea; Ioan Sebastian Muresan; Alexandra Elena Pitaru,EXAM,6/6/2025,13:00,6/6/2025,14:00,Cluj
+Lorena Maria Buzea,EXAM,6/6/2025,13:00,6/6/2025,14:00,Cluj
+Ioan Sebastian Muresan,EXAM,6/6/2025,13:00,6/6/2025,14:00,Cluj
+Alexandra Elena Pitaru,EXAM,6/6/2025,13:00,6/6/2025,14:00,Cluj
 Darius Fratila,EXAM,6/6/2025,13:00,6/6/2025,16:00,Cluj
 Flora Balogh,EXAM,6/6/2025,14:00,6/6/2025,16:00,Cluj
 Cristian Valentin Alexa,EXAM,6/6/2025,14:00,6/6/2025,15:00,Cluj
@@ -69,7 +78,10 @@ Bogdan Cristian Marcu,EXAM,6/9/2025,8:00,6/9/2025,11:00,Cluj
 Timotei Cristian Morar,EXAM,6/9/2025,8:00,6/9/2025,11:30,Cluj
 Daniel Rosu,EXAM,6/9/2025,8:00,6/9/2025,11:00,Cluj
 Flora Balogh,EXAM,6/9/2025,8:00,6/9/2025,11:00,Cluj
-Lorena Maria Buzea; Ioan Sebastian Muresan; Alexandra Elena Pitaru; Mariana Ionela Muntian,EXAM,6/9/2025,8:00,6/9/2025,11:30,Cluj
+Lorena Maria Buzea,EXAM,6/9/2025,8:00,6/9/2025,11:30,Cluj
+Ioan Sebastian Muresan,EXAM,6/9/2025,8:00,6/9/2025,11:30,Cluj
+Alexandra Elena Pitaru,EXAM,6/9/2025,8:00,6/9/2025,11:30,Cluj
+Mariana Ionela Muntian,EXAM,6/9/2025,8:00,6/9/2025,11:30,Cluj
 Vlad Ioan Durdeu,EXAM,6/9/2025,11:00,6/9/2025,14:00,Cluj
 Ionut Popescu,EXAM,6/9/2025,13:00,6/9/2025,16:00,Cluj
 Remus Mihai Prodan,EXAM,6/9/2025,14:00,6/9/2025,17:00,Cluj
@@ -103,12 +115,15 @@ Felix Cosmin Orga,EXAM,6/12/2025,13:00,6/12/2025,17:00,Cluj
 Diana Cristina Mocan,EXAM,6/12/2025,13:00,6/12/2025,17:00,Cluj
 Ariana Casandra Olaru,EXAM,6/12/2025,14:00,6/12/2025,17:00,Cluj
 Ana Stefania Serbanoiu,EXAM,6/12/2025,15:00,6/12/2025,17:00,Cluj
-Robert Erno Eminovici; Petru Adelin Cojocaru,EXAM,6/12/2025,16:00,6/12/2025,19:00,Cluj
+Robert Erno Eminovici,EXAM,6/12/2025,16:00,6/12/2025,19:00,Cluj
+Petru Adelin Cojocaru,EXAM,6/12/2025,16:00,6/12/2025,19:00,Cluj
 Gabriel Alexandru Nedelcu,EXAM,6/12/2025,17:00,6/12/2025,18:00,Cluj
 Vlad Ioan Durdeu,EXAM,6/12/2025,17:00,6/12/2025,20:00,Cluj
 Cornel Adrian Pop,EXAM,6/12/2025,21:00,6/13/2025,21:00,Cluj
 Anton Calin Stroia,EXAM,6/13/2025,8:00,6/13/2025,11:00,Cluj
-Lorena Maria Buzea; Ioan Sebastian Muresan; Alexandra Elena Pitaru,EXAM,6/13/2025,8:00,6/13/2025,11:00,Cluj
+Lorena Maria Buzea,EXAM,6/13/2025,8:00,6/13/2025,11:00,Cluj
+Ioan Sebastian Muresan,EXAM,6/13/2025,8:00,6/13/2025,11:00,Cluj
+Alexandra Elena Pitaru,EXAM,6/13/2025,8:00,6/13/2025,11:00,Cluj
 Daria Alexia Irimie,EXAM,6/13/2025,8:00,6/13/2025,11:00,Cluj
 Timotei Cristian Morar,EXAM,6/13/2025,8:00,6/13/2025,11:30,Cluj
 Flora Balogh,EXAM,6/13/2025,8:00,6/13/2025,11:00,Cluj
@@ -130,7 +145,10 @@ Bogdan Cristian Marcu,EXAM,6/16/2025,8:00,6/16/2025,11:00,Cluj
 Daria Alexia Irimie,EXAM,6/16/2025,11:00,6/16/2025,14:00,Cluj
 Cristian Valentin Alexa,EXAM,6/16/2025,11:00,6/16/2025,13:00,Cluj
 Ferdinand Alexandru Cabat,EXAM,6/16/2025,11:00,6/16/2025,14:00,Cluj
-Lorena Maria Buzea; Ioan Sebastian Muresan; Alexandra Elena Pitaru; Mariana Ionela Muntian,EXAM,6/16/2025,14:00,6/16/2025,17:30,Cluj
+Lorena Maria Buzea,EXAM,6/16/2025,14:00,6/16/2025,17:30,Cluj
+Ioan Sebastian Muresan,EXAM,6/16/2025,14:00,6/16/2025,17:30,Cluj
+Alexandra Elena Pitaru,EXAM,6/16/2025,14:00,6/16/2025,17:30,Cluj
+Mariana Ionela Muntian,EXAM,6/16/2025,14:00,6/16/2025,17:30,Cluj
 Flora Balogh,EXAM,6/16/2025,14:00,6/16/2025,17:00,Cluj
 Augustin Dumitru Sasu,EXAM,6/16/2025,17:00,6/16/2025,20:00,Cluj
 Mircea Stefan Pop,EXAM,6/16/2025,17:00,6/16/2025,20:00,Cluj
@@ -141,7 +159,8 @@ Andreea Gabriela Pop,EXAM,6/17/2025,11:00,6/17/2025,14:00,Cluj
 Marcos Dimitris Fetcu,EXAM,6/17/2025,11:00,6/17/2025,13:00,Cluj
 Emma Simina Muresan,FACULTY,6/17/2025,13:00,6/17/2025,14:30,Cluj
 Remus Mihai Prodan,EXAM,6/17/2025,14:00,6/17/2025,17:00,Cluj
-Robert Erno Eminovici; Petru Adelin Cojocaru,EXAM,6/17/2025,15:00,6/17/2025,18:00,Cluj
+Robert Erno Eminovici,EXAM,6/17/2025,15:00,6/17/2025,18:00,Cluj
+Petru Adelin Cojocaru,EXAM,6/17/2025,15:00,6/17/2025,18:00,Cluj
 Adina Denisa Horj,EXAM,6/17/2025,17:00,6/17/2025,19:00,Cluj
 Cosmin Gabriel Petriuc,EXAM,6/17/2025,17:00,6/17/2025,20:00,Cluj
 Tudor Muntean,EXAM,6/18/2025,8:00,6/18/2025,10:00,Cluj
@@ -161,7 +180,11 @@ Mircea Stefan Pop,ANNUAL LEAVE,6/18/2025,21:00,6/25/2025,21:00,Cluj
 Petru Adelin Cojocaru,EXAM,6/19/2025,8:00,6/19/2025,11:00,Cluj
 Eric Marian Dascalu,EXAM,6/19/2025,9:00,6/19/2025,11:00,Cluj
 Daniel Kewin Chifa,EXAM,6/19/2025,10:00,6/19/2025,14:01,Cluj
-Lorena Maria Buzea; Ioan Sebastian Muresan; Alexandra Elena Pitaru; Flora Balogh; Mariana Ionela Muntian,EXAM,6/20/2025,8:00,6/20/2025,11:30,Cluj
+Lorena Maria Buzea,EXAM,6/20/2025,8:00,6/20/2025,11:30,Cluj
+Ioan Sebastian Muresan,EXAM,6/20/2025,8:00,6/20/2025,11:30,Cluj
+Alexandra Elena Pitaru,EXAM,6/20/2025,8:00,6/20/2025,11:30,Cluj
+Flora Balogh,EXAM,6/20/2025,8:00,6/20/2025,11:30,Cluj
+Mariana Ionela Muntian,EXAM,6/20/2025,8:00,6/20/2025,11:30,Cluj
 Vlad Ioan Durdeu,EXAM,6/20/2025,9:00,6/20/2025,12:00,Cluj
 Bogdan Cristian Marcu,EXAM,6/20/2025,9:00,6/20/2025,12:00,Cluj
 Vlad Andrei Groza,EXAM,6/20/2025,10:30,6/20/2025,12:30,Cluj
@@ -176,11 +199,15 @@ Laura Rusanescu,EXAM,6/23/2025,10:00,6/23/2025,12:00,Cluj
 Tudor Muntean,EXAM,6/23/2025,10:00,6/23/2025,12:00,Cluj
 Daniel Kewin Chifa,EXAM,6/23/2025,11:00,6/23/2025,14:00,Cluj
 Sebastian Cristian Sleam,GRADUATION,6/23/2025,13:30,6/23/2025,16:30,Cluj
-Tudor Gabriel Pascaru; Flora Balogh,EXAM,6/23/2025,17:00,6/23/2025,20:00,Cluj
+Tudor Gabriel Pascaru,EXAM,6/23/2025,17:00,6/23/2025,20:00,Cluj
+Flora Balogh,EXAM,6/23/2025,17:00,6/23/2025,20:00,Cluj
 Ioana Victoria Zinveliu,EXAM,6/23/2025,17:00,6/23/2025,20:00,Cluj
 Laura Rusanescu,EXAM,6/24/2025,14:00,6/24/2025,17:00,Cluj
 Augustin Dumitru Sasu,EXAM,6/24/2025,14:00,6/24/2025,17:00,Cluj
-Lorena Maria Buzea; Ioan Sebastian Muresan; Alexandra Elena Pitaru; Mariana Ionela Muntian,EXAM,6/24/2025,17:00,6/24/2025,20:30,Cluj
+Lorena Maria Buzea,EXAM,6/24/2025,17:00,6/24/2025,20:30,Cluj
+Ioan Sebastian Muresan,EXAM,6/24/2025,17:00,6/24/2025,20:30,Cluj
+Alexandra Elena Pitaru,EXAM,6/24/2025,17:00,6/24/2025,20:30,Cluj
+Mariana Ionela Muntian,EXAM,6/24/2025,17:00,6/24/2025,20:30,Cluj
 Bogdan Cristian Marcu,EXAM,6/25/2025,8:00,6/25/2025,11:00,Cluj
 Laura Rusanescu,EXAM,6/25/2025,10:00,6/25/2025,12:00,Cluj
 Cristian Valentin Alexa,EXAM,6/25/2025,11:00,6/25/2025,13:00,Cluj
@@ -188,7 +215,10 @@ Tudor Muntean,FACULTY,6/25/2025,16:00,6/25/2025,17:00,Cluj
 Dragos Ionut Talaba,GRADUATION,6/25/2025,21:00,6/26/2025,21:00,Cluj
 Bianca Maria Lazar,GRADUATION,6/25/2025,21:00,6/26/2025,21:00,Cluj
 Cosmin Gabriel Petriuc,FACULTY,6/25/2025,21:00,6/26/2025,21:00,Cluj
-Sebastian Ionel Filipovici; Laura Rusanescu; Robert Fedus; Ioana Botezatu,GRADUATION,6/25/2025,21:00,6/26/2025,21:00,Cluj
+Sebastian Ionel Filipovici,GRADUATION,6/25/2025,21:00,6/26/2025,21:00,Cluj
+Laura Rusanescu,GRADUATION,6/25/2025,21:00,6/26/2025,21:00,Cluj
+Robert Fedus,GRADUATION,6/25/2025,21:00,6/26/2025,21:00,Cluj
+Ioana Botezatu,GRADUATION,6/25/2025,21:00,6/26/2025,21:00,Cluj
 Maria Camelia Raicu,GRADUATION,6/25/2025,21:00,6/26/2025,14:00,Cluj
 Tudor Muntean,GRADUATION,6/26/2025,0:00,6/26/2025,18:00,Cluj
 Dragos Alexandru Ion,GRADUATION,6/26/2025,0:00,6/26/2025,18:00,Cluj
@@ -197,7 +227,8 @@ Denisa Elena Stolniceanu,GRADUATION,6/26/2025,9:00,6/26/2025,12:00,Cluj
 Paul Valentin Vela,EXAM,6/26/2025,9:00,6/26/2025,12:00,Cluj
 Daniel Rosu,EXAM,6/26/2025,11:00,6/26/2025,14:00,Cluj
 Bogdan Cristian Marcu,EXAM,6/26/2025,13:00,6/26/2025,16:00,Cluj
-Cosmin Adrian Neamtiu; Flora Balogh,EXAM,6/26/2025,14:00,6/26/2025,17:00,Cluj
+Cosmin Adrian Neamtiu,EXAM,6/26/2025,14:00,6/26/2025,17:00,Cluj
+Flora Balogh,EXAM,6/26/2025,14:00,6/26/2025,17:00,Cluj
 Flora Balogh,FACULTY,6/26/2025,17:00,6/26/2025,18:00,Cluj
 Gabriel Alexandru Nedelcu,EXAM,6/26/2025,17:30,6/26/2025,19:30,Cluj
 Tudor Muntean,FACULTY,6/26/2025,21:00,6/27/2025,21:00,Cluj
@@ -206,7 +237,10 @@ Maria Camelia Raicu,FACULTY,6/27/2025,6:00,6/27/2025,12:00,Cluj
 Iulia Olivia Cipleu,FACULTY,6/27/2025,8:30,6/27/2025,15:00,Cluj
 Bianca Anamaria Chiorean,FACULTY,6/27/2025,8:30,6/27/2025,15:00,Cluj
 Daniel Kewin Chifa,EXAM,6/27/2025,11:00,6/27/2025,14:30,Cluj
-Lorena Maria Buzea; Ioan Sebastian Muresan; Alexandra Elena Pitaru; Mariana Ionela Muntian,EXAM,6/27/2025,14:00,6/27/2025,17:00,Cluj
+Lorena Maria Buzea,EXAM,6/27/2025,14:00,6/27/2025,17:00,Cluj
+Ioan Sebastian Muresan,EXAM,6/27/2025,14:00,6/27/2025,17:00,Cluj
+Alexandra Elena Pitaru,EXAM,6/27/2025,14:00,6/27/2025,17:00,Cluj
+Mariana Ionela Muntian,EXAM,6/27/2025,14:00,6/27/2025,17:00,Cluj
 Augustin Dumitru Sasu,EXAM,6/27/2025,14:00,6/27/2025,17:00,Cluj
 Mircea Stefan Pop,EXAM,6/27/2025,14:00,6/27/2025,17:00,Cluj
 Ferdinand Alexandru Cabat,EXAM,6/27/2025,17:00,6/27/2025,20:00,Cluj
@@ -216,7 +250,8 @@ Dragos Ionut Talaba,EXAM,6/29/2025,21:00,6/30/2025,21:00,Cluj
 Maria Camelia Raicu,EXAM,6/30/2025,6:00,6/30/2025,10:00,Cluj
 Bogdan Nicolae Cotta,EXAM,6/30/2025,6:00,6/30/2025,12:00,Cluj
 Denisa Elena Stolniceanu,EXAM,6/30/2025,8:00,6/30/2025,11:00,Cluj
-Laura Rusanescu; Ioana Botezatu,EXAM,6/30/2025,8:00,6/30/2025,14:00,Cluj
+Laura Rusanescu,EXAM,6/30/2025,8:00,6/30/2025,14:00,Cluj
+Ioana Botezatu,EXAM,6/30/2025,8:00,6/30/2025,14:00,Cluj
 Dragos Alexandru Ion,EXAM,6/30/2025,8:00,6/30/2025,12:00,Cluj
 Tudor Muntean,EXAM,6/30/2025,8:00,6/30/2025,12:00,Cluj
 Mihnea Sebastian Ilie Encean,EXAM,6/30/2025,9:00,6/30/2025,12:00,Cluj
