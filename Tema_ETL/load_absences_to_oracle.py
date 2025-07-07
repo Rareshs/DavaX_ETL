@@ -69,4 +69,6 @@ conn.close()
 print(f"Inserate cu succes: {success_count}")
 print(f" Rânduri eșuate: {len(failed_rows)}")
 
+#test
+
 
